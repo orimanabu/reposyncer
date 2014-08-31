@@ -1,0 +1,72 @@
+##
+## for RHEL7
+##
+[local-rhel-7-server-rpms]
+name=local rhel-7-server-rpms
+baseurl=http://10.64.193.148/repos/rhel-7-server-rpms
+enabled=1
+gpgcheck=0
+
+[local-rhel-7-server-openstack-5.0-rpms]
+name=local rhel-7-server-openstack-5.0-rpms
+baseurl=http://10.64.193.148/repos/rhel-7-server-openstack-5.0-rpms
+enabled=1
+gpgcheck=0
+
+[local-rhel-7-server-rh-common-rpms]
+name=local rhel-7-server-rh-common-rpms
+baseurl=http://10.64.193.148/repos/rhel-7-server-rh-common-rpms
+enabled=1
+gpgcheck=0
+
+[local-rhel-7-server-optional-rpms]
+name=local rhel-7-server-optional-rpms
+baseurl=http://10.64.193.148/repos/rhel-7-server-optional-rpms
+enabled=1
+gpgcheck=0
+
+##
+## for RHEL6
+##
+[local-rhel-6-server-openstack-5.0-rpms]
+name=local rhel-6-server-openstack-5.0-rpms
+baseurl=http://10.64.193.148/repos/rhel-6-server-openstack-5.0-rpms
+enabled=1
+gpgcheck=0
+
+[local-rhel-6-server-openstack-foreman-rpms]
+name=local rhel-6-server-openstack-foreman-rpms
+baseurl=http://10.64.193.148/repos/rhel-6-server-openstack-foreman-rpms
+enabled=1
+gpgcheck=0
+
+[local-rhel-6-server-rpms]
+name=local rhel-6-server-rpms
+baseurl=http://10.64.193.148/repos/rhel-6-server-rpms
+enabled=1
+gpgcheck=0
+
+[local-rhel-ha-for-rhel-6-server-rpms]
+name=local rhel-ha-for-rhel-6-server-rpms
+baseurl=http://10.64.193.148/repos/rhel-ha-for-rhel-6-server-rpms
+enabled=1
+gpgcheck=0
+
+[local-rhel-lb-for-rhel-6-server-rpms]
+name=local rhel-lb-for-rhel-6-server-rpms
+baseurl=http://10.64.193.148/repos/rhel-lb-for-rhel-6-server-rpms
+enabled=1
+gpgcheck=0
+
+[local-rhel-6-server-rh-common-rpms]
+name=local rhel-6-server-rh-common-rpms
+baseurl=http://10.64.193.148/repos/rhel-6-server-rh-common-rpms
+enabled=1
+gpgcheck=0
+
+[local-rhel-6-server-optional-rpms]
+name=local rhel-6-server-optional-rpms
+baseurl=http://10.64.193.148/repos/rhel-6-server-optional-rpms
+enabled=1
+gpgcheck=0
+

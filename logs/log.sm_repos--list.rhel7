@@ -1,0 +1,558 @@
++----------------------------------------------------------+
+    Available Repositories in /etc/yum.repos.d/redhat.repo
++----------------------------------------------------------+
+Repo ID:   rhel-rs-for-rhel-7-server-fastrack-debug-rpms
+Repo Name: Red Hat Enterprise Linux Resilient Storage (for RHEL 7 Server) - Fastrack (Debug RPMs)
+Repo URL:  https://cdn.redhat.com/content/fastrack/rhel/server/7/$basearch/resilientstorage/debug
+Enabled:   0
+
+Repo ID:   rhel-ha-for-rhel-7-server-htb-source-rpms
+Repo Name: Red Hat Enterprise Linux High Availability (for RHEL 7 Server) HTB (Source RPMs)
+Repo URL:  https://cdn.redhat.com/content/htb/rhel/server/7/$basearch/highavailability/source/SRPMS
+Enabled:   0
+
+Repo ID:   rhel-7-server-extras-htb-source-rpms
+Repo Name: Red Hat Enterprise Linux 7 Server - Extras HTB (Source RPMs)
+Repo URL:  https://cdn.redhat.com/content/htb/rhel/server/7/$basearch/extras/source/SRPMS
+Enabled:   0
+
+Repo ID:   rhel-ha-for-rhel-7-server-beta-debug-rpms
+Repo Name: Red Hat Enterprise Linux High Availability (for RHEL 7 Server) Beta (Debug RPMs)
+Repo URL:  https://cdn.redhat.com/content/beta/rhel/server/7/$basearch/highavailability/debug
+Enabled:   0
+
+Repo ID:   rhel-ha-for-rhel-7-server-fastrack-rpms
+Repo Name: Red Hat Enterprise Linux High Availability (for RHEL 7 Server) - Fastrack (RPMs)
+Repo URL:  https://cdn.redhat.com/content/fastrack/rhel/server/7/$basearch/highavailability/os
+Enabled:   0
+
+Repo ID:   rhel-7-server-extras-rpms
+Repo Name: Red Hat Enterprise Linux 7 Server - Extras (RPMs)
+Repo URL:  https://cdn.redhat.com/content/dist/rhel/server/7/7Server/$basearch/extras/os
+Enabled:   0
+
+Repo ID:   rhel-7-server-rhev-mgmt-agent-debug-rpms
+Repo Name: Red Hat Enterprise Virtualization Management Agents for RHEL 7 (Debug RPMs)
+Repo URL:  https://cdn.redhat.com/content/dist/rhel/server/7/$releasever/$basearch/rhev-mgmt-agent/3/debug
+Enabled:   0
+
+Repo ID:   rhel-7-server-rhn-tools-beta-rpms
+Repo Name: RHN Tools for Red Hat Enterprise Linux 7 Server Beta (RPMs)
+Repo URL:  https://cdn.redhat.com/content/beta/rhel/server/7/$basearch/rhn-tools/os
+Enabled:   0
+
+Repo ID:   rhel-7-server-supplementary-debug-rpms
+Repo Name: Red Hat Enterprise Linux 7 Server - Supplementary (Debug RPMs)
+Repo URL:  https://cdn.redhat.com/content/dist/rhel/server/7/$releasever/$basearch/supplementary/debug
+Enabled:   0
+
+Repo ID:   rhel-7-server-openstack-beta-cts-debug-rpms
+Repo Name: Red Hat OpenStack Beta Certification Test Suite for Server 7 (Debug RPMs)
+Repo URL:  https://cdn.redhat.com/content/beta/rhel/server/7/$basearch/openstack-cts/debug
+Enabled:   0
+
+Repo ID:   rhel-server-rhscl-7-beta-source-rpms
+Repo Name: Red Hat Software Collections Beta Source RPMs for Red Hat Enterprise Linux 7 Server
+Repo URL:  https://cdn.redhat.com/content/htb/rhel/server/7/$basearch/rhscl/1/source/SRPMS
+Enabled:   0
+
+Repo ID:   rhel-sap-for-rhel-7-server-source-rpms
+Repo Name: Red Hat Enterprise Linux for SAP (RHEL 7 Server) (Source RPMs)
+Repo URL:  https://cdn.redhat.com/content/dist/rhel/server/7/$releasever/$basearch/sap/source/SRPMS
+Enabled:   0
+
+Repo ID:   rhel-7-server-openstack-beta-source-rpms
+Repo Name: Red Hat OpenStack Beta for Server 7 (Source RPMs)
+Repo URL:  https://cdn.redhat.com/content/beta/rhel/server/7/$basearch/openstack/source/SRPMS
+Enabled:   0
+
+Repo ID:   rhel-lb-for-rhel-7-server-htb-debug-rpms
+Repo Name: Red Hat Enterprise Linux Load Balancer (for RHEL 7 Server) HTB (Debug RPMs)
+Repo URL:  https://cdn.redhat.com/content/htb/rhel/server/7/$basearch/loadbalancer/debug
+Enabled:   0
+
+Repo ID:   rhel-7-server-optional-beta-debug-rpms
+Repo Name: Red Hat Enterprise Linux 7 Server - Optional Beta (Debug RPMs)
+Repo URL:  https://cdn.redhat.com/content/beta/rhel/server/7/$basearch/optional/debug
+Enabled:   0
+
+Repo ID:   rhel-server-rhscl-7-beta-debug-rpms
+Repo Name: Red Hat Software Collections Beta Debug RPMs for Red Hat Enterprise Linux 7 Server
+Repo URL:  https://cdn.redhat.com/content/htb/rhel/server/7/$basearch/rhscl/1/debug
+Enabled:   0
+
+Repo ID:   rhel-7-server-optional-fastrack-debug-rpms
+Repo Name: Red Hat Enterprise Linux 7 Server - Optional Fastrack (Debug RPMs)
+Repo URL:  https://cdn.redhat.com/content/fastrack/rhel/server/7/$basearch/optional/debug
+Enabled:   0
+
+Repo ID:   rhel-ha-for-rhel-7-server-fastrack-debug-rpms
+Repo Name: Red Hat Enterprise Linux High Availability (for RHEL 7 Server) - Fastrack (Debug RPMs)
+Repo URL:  https://cdn.redhat.com/content/fastrack/rhel/server/7/$basearch/highavailability/debug
+Enabled:   0
+
+Repo ID:   rhel-7-server-htb-rpms
+Repo Name: Red Hat Enterprise Linux 7 Server HTB (RPMs)
+Repo URL:  https://cdn.redhat.com/content/htb/rhel/server/7/$basearch/os
+Enabled:   1
+
+Repo ID:   rhel-lb-for-rhel-7-server-htb-rpms
+Repo Name: Red Hat Enterprise Linux Load Balancer (for RHEL 7 Server) HTB (RPMs)
+Repo URL:  https://cdn.redhat.com/content/htb/rhel/server/7/$basearch/loadbalancer/os
+Enabled:   1
+
+Repo ID:   rhel-rs-for-rhel-7-server-source-rpms
+Repo Name: Red Hat Enterprise Linux Resilient Storage (for RHEL 7 Server) (Source RPMs)
+Repo URL:  https://cdn.redhat.com/content/dist/rhel/server/7/$releasever/$basearch/resilientstorage/source/SRPMS
+Enabled:   0
+
+Repo ID:   rhel-7-server-supplementary-beta-source-rpms
+Repo Name: Red Hat Enterprise Linux 7 Server - Supplementary Beta (Source RPMs)
+Repo URL:  https://cdn.redhat.com/content/beta/rhel/server/7/$basearch/supplementary/source/SRPMS
+Enabled:   0
+
+Repo ID:   jb-ews-2-for-rhel-7-server-debug-rpms
+Repo Name: JBoss Enterprise Web Server 2 (RHEL 7 Server) (Debug RPMs)
+Repo URL:  https://cdn.redhat.com/content/dist/rhel/server/7/$releasever/$basearch/jbews/2/debug
+Enabled:   0
+
+Repo ID:   rhel-7-server-optional-htb-source-rpms
+Repo Name: Red Hat Enterprise Linux 7 Server - Optional HTB (Source RPMs)
+Repo URL:  https://cdn.redhat.com/content/htb/rhel/server/7/$basearch/optional/source/SRPMS
+Enabled:   0
+
+Repo ID:   rhel-7-server-optional-debug-rpms
+Repo Name: Red Hat Enterprise Linux 7 Server - Optional (Debug RPMs)
+Repo URL:  https://cdn.redhat.com/content/dist/rhel/server/7/$releasever/$basearch/optional/debug
+Enabled:   0
+
+Repo ID:   rhel-sap-for-rhel-7-server-rpms
+Repo Name: Red Hat Enterprise Linux for SAP (RHEL 7 Server) (RPMs)
+Repo URL:  https://cdn.redhat.com/content/dist/rhel/server/7/$releasever/$basearch/sap/os
+Enabled:   1
+
+Repo ID:   rhel-ha-for-rhel-7-server-source-rpms
+Repo Name: Red Hat Enterprise Linux High Availability (for RHEL 7 Server) (Source RPMs)
+Repo URL:  https://cdn.redhat.com/content/dist/rhel/server/7/$releasever/$basearch/highavailability/source/SRPMS
+Enabled:   0
+
+Repo ID:   jb-eap-6-for-rhel-7-server-rpms
+Repo Name: JBoss Enterprise Application Platform 6 (RHEL 7 Server) (RPMs)
+Repo URL:  https://cdn.redhat.com/content/dist/rhel/server/7/$releasever/$basearch/jbeap/6/os
+Enabled:   0
+
+Repo ID:   rhel-lb-for-rhel-7-server-htb-source-rpms
+Repo Name: Red Hat Enterprise Linux Load Balancer (for RHEL 7 Server) HTB (Source RPMs)
+Repo URL:  https://cdn.redhat.com/content/htb/rhel/server/7/$basearch/loadbalancer/source/SRPMS
+Enabled:   0
+
+Repo ID:   rhel-server-rhscl-7-rpms
+Repo Name: Red Hat Software Collections RPMs for Red Hat Enterprise Linux 7 Server
+Repo URL:  https://cdn.redhat.com/content/dist/rhel/server/7/$releasever/$basearch/rhscl/1/os
+Enabled:   0
+
+Repo ID:   rhel-ha-for-rhel-7-server-htb-debug-rpms
+Repo Name: Red Hat Enterprise Linux High Availability (for RHEL 7 Server) HTB (Debug RPMs)
+Repo URL:  https://cdn.redhat.com/content/htb/rhel/server/7/$basearch/highavailability/debug
+Enabled:   0
+
+Repo ID:   rhel-7-server-rhn-tools-rpms
+Repo Name: RHN Tools for Red Hat Enterprise Linux 7 Server (RPMs)
+Repo URL:  https://cdn.redhat.com/content/dist/rhel/server/7/$releasever/$basearch/rhn-tools/os
+Enabled:   0
+
+Repo ID:   rhel-rs-for-rhel-7-server-debug-rpms
+Repo Name: Red Hat Enterprise Linux Resilient Storage (for RHEL 7 Server) (Debug RPMs)
+Repo URL:  https://cdn.redhat.com/content/dist/rhel/server/7/$releasever/$basearch/resilientstorage/debug
+Enabled:   0
+
+Repo ID:   rhel-rs-for-rhel-7-server-fastrack-rpms
+Repo Name: Red Hat Enterprise Linux Resilient Storage (for RHEL 7 Server) - Fastrack (RPMs)
+Repo URL:  https://cdn.redhat.com/content/fastrack/rhel/server/7/$basearch/resilientstorage/os
+Enabled:   0
+
+Repo ID:   rhel-7-server-optional-fastrack-source-rpms
+Repo Name: Red Hat Enterprise Linux 7 Server - Optional Fastrack (Source RPMs)
+Repo URL:  https://cdn.redhat.com/content/fastrack/rhel/server/7/$basearch/optional/source/SRPMS
+Enabled:   0
+
+Repo ID:   rhel-7-server-fastrack-rpms
+Repo Name: Red Hat Enterprise Linux 7 Server - Fastrack (RPMs)
+Repo URL:  https://cdn.redhat.com/content/fastrack/rhel/server/7/$basearch/os
+Enabled:   0
+
+Repo ID:   rhel-7-server-openstack-beta-cts-rpms
+Repo Name: Red Hat OpenStack Beta Certification Test Suite for Server 7 (RPMs)
+Repo URL:  https://cdn.redhat.com/content/beta/rhel/server/7/$basearch/openstack-cts/os
+Enabled:   0
+
+Repo ID:   rhel-7-server-openstack-5.0-rpms
+Repo Name: Red Hat OpenStack 5.0 for RHEL 7 (RPMs)
+Repo URL:  https://cdn.redhat.com/content/dist/rhel/server/7/$releasever/$basearch/openstack/5.0/os
+Enabled:   0
+
+Repo ID:   rhel-7-server-optional-fastrack-rpms
+Repo Name: Red Hat Enterprise Linux 7 Server - Optional Fastrack (RPMs)
+Repo URL:  https://cdn.redhat.com/content/fastrack/rhel/server/7/$basearch/optional/os
+Enabled:   0
+
+Repo ID:   jb-eap-6-for-rhel-7-server-debug-rpms
+Repo Name: JBoss Enterprise Application Platform 6 (RHEL 7 Server) (Debug RPMs)
+Repo URL:  https://cdn.redhat.com/content/dist/rhel/server/7/$releasever/$basearch/jbeap/6/debug
+Enabled:   0
+
+Repo ID:   rhel-7-server-htb-debug-rpms
+Repo Name: Red Hat Enterprise Linux 7 Server HTB (Debug RPMs)
+Repo URL:  https://cdn.redhat.com/content/htb/rhel/server/7/$basearch/debug
+Enabled:   0
+
+Repo ID:   rhel-7-server-rhn-tools-beta-source-rpms
+Repo Name: RHN Tools for Red Hat Enterprise Linux 7 Server Beta (Source RPMs)
+Repo URL:  https://cdn.redhat.com/content/beta/rhel/server/7/$basearch/rhn-tools/source/SRPMS
+Enabled:   0
+
+Repo ID:   rhel-sap-for-rhel-7-server-beta-rpms
+Repo Name: Red Hat Enterprise Linux for SAP (RHEL 7 Server) Beta (RPMs)
+Repo URL:  https://cdn.redhat.com/content/beta/rhel/server/7/$basearch/sap/os
+Enabled:   0
+
+Repo ID:   rhel-x86_64-server-7-mrg-messaging-2-source-rpms
+Repo Name: Red Hat Enterprise MRG Messaging 2 for RHEL 7 (Source RPMs)
+Repo URL:  https://cdn.redhat.com/content/dist/rhel/server/7/7Server/$basearch/mrg-m/2/source/SRPMS
+Enabled:   0
+
+Repo ID:   rhel-7-server-extras-source-rpms
+Repo Name: Red Hat Enterprise Linux 7 Server - Extras (Source RPMs)
+Repo URL:  https://cdn.redhat.com/content/dist/rhel/server/7/7Server/$basearch/extras/source/SRPMS
+Enabled:   0
+
+Repo ID:   rhel-7-server-optional-htb-debug-rpms
+Repo Name: Red Hat Enterprise Linux 7 Server - Optional HTB (Debug RPMs)
+Repo URL:  https://cdn.redhat.com/content/htb/rhel/server/7/$basearch/optional/debug
+Enabled:   0
+
+Repo ID:   rhel-rs-for-rhel-7-server-beta-debug-rpms
+Repo Name: Red Hat Enterprise Linux Resilient Storage (for RHEL 7 Server) Beta (Debug RPMs)
+Repo URL:  https://cdn.redhat.com/content/beta/rhel/server/7/$basearch/resilientstorage/debug
+Enabled:   0
+
+Repo ID:   rhel-7-server-extras-htb-debug-rpms
+Repo Name: Red Hat Enterprise Linux 7 Server - Extras HTB (Debug RPMs)
+Repo URL:  https://cdn.redhat.com/content/htb/rhel/server/7/$basearch/extras/debug
+Enabled:   0
+
+Repo ID:   rhel-rs-for-rhel-7-server-rpms
+Repo Name: Red Hat Enterprise Linux Resilient Storage (for RHEL 7 Server) (RPMs)
+Repo URL:  https://cdn.redhat.com/content/dist/rhel/server/7/$releasever/$basearch/resilientstorage/os
+Enabled:   1
+
+Repo ID:   rhel-atomic-preview-source-rpms
+Repo Name: Red Hat Enterprise Linux Atomic Host Preview (Source RPMs)
+Repo URL:  https://cdn.redhat.com/content/preview/rhel/atomic/7/x86_64/source/SRPMS
+Enabled:   0
+
+Repo ID:   rhel-rs-for-rhel-7-server-htb-source-rpms
+Repo Name: Red Hat Enterprise Linux Resilient Storage (for RHEL 7 Server) HTB (Source RPMs)
+Repo URL:  https://cdn.redhat.com/content/htb/rhel/server/7/$basearch/resilientstorage/source/SRPMS
+Enabled:   0
+
+Repo ID:   rhel-7-server-optional-source-rpms
+Repo Name: Red Hat Enterprise Linux 7 Server - Optional (Source RPMs)
+Repo URL:  https://cdn.redhat.com/content/dist/rhel/server/7/$releasever/$basearch/optional/source/SRPMS
+Enabled:   0
+
+Repo ID:   rhel-7-server-rhn-tools-beta-debug-rpms
+Repo Name: RHN Tools for Red Hat Enterprise Linux 7 Server Beta (Debug RPMs)
+Repo URL:  https://cdn.redhat.com/content/beta/rhel/server/7/$basearch/rhn-tools/debug
+Enabled:   0
+
+Repo ID:   rhel-server-rhscl-7-beta-rpms
+Repo Name: Red Hat Software Collections Beta RPMs for Red Hat Enterprise Linux 7 Server
+Repo URL:  https://cdn.redhat.com/content/htb/rhel/server/7/$basearch/rhscl/1/os
+Enabled:   0
+
+Repo ID:   rhel-7-server-beta-source-rpms
+Repo Name: Red Hat Enterprise Linux 7 Server Beta (Source RPMs)
+Repo URL:  https://cdn.redhat.com/content/beta/rhel/server/7/$basearch/source/SRPMS
+Enabled:   0
+
+Repo ID:   rhel-7-server-openstack-beta-rpms
+Repo Name: Red Hat OpenStack Beta for Server 7 (RPMs)
+Repo URL:  https://cdn.redhat.com/content/beta/rhel/server/7/$basearch/openstack/os
+Enabled:   0
+
+Repo ID:   rhel-7-server-rhev-mgmt-agent-rpms
+Repo Name: Red Hat Enterprise Virtualization Management Agents for RHEL 7 (RPMs)
+Repo URL:  https://cdn.redhat.com/content/dist/rhel/server/7/$releasever/$basearch/rhev-mgmt-agent/3/os
+Enabled:   0
+
+Repo ID:   rhel-sap-for-rhel-7-server-debug-rpms
+Repo Name: Red Hat Enterprise Linux for SAP (RHEL 7 Server) (Debug RPMs)
+Repo URL:  https://cdn.redhat.com/content/dist/rhel/server/7/$releasever/$basearch/sap/debug
+Enabled:   0
+
+Repo ID:   rhel-7-server-rh-common-beta-rpms
+Repo Name: Red Hat Enterprise Linux 7 Server - RH Common Beta (RPMs)
+Repo URL:  https://cdn.redhat.com/content/beta/rhel/server/7/$basearch/rh-common/os
+Enabled:   0
+
+Repo ID:   rhel-server-rhscl-7-debug-rpms
+Repo Name: Red Hat Software Collections Debug RPMs for Red Hat Enterprise Linux 7 Server
+Repo URL:  https://cdn.redhat.com/content/dist/rhel/server/7/$releasever/$basearch/rhscl/1/debug
+Enabled:   0
+
+Repo ID:   rhel-7-server-extras-debug-rpms
+Repo Name: Red Hat Enterprise Linux 7 Server - Extras (Debug RPMs)
+Repo URL:  https://cdn.redhat.com/content/dist/rhel/server/7/7Server/$basearch/extras/debug
+Enabled:   0
+
+Repo ID:   rhel-7-server-debug-rpms
+Repo Name: Red Hat Enterprise Linux 7 Server (Debug RPMs)
+Repo URL:  https://cdn.redhat.com/content/dist/rhel/server/7/$releasever/$basearch/debug
+Enabled:   0
+
+Repo ID:   rhel-server-rhscl-7-source-rpms
+Repo Name: Red Hat Software Collections Source RPMs for Red Hat Enterprise Linux 7 Server
+Repo URL:  https://cdn.redhat.com/content/dist/rhel/server/7/$releasever/$basearch/rhscl/1/source/SRPMS
+Enabled:   0
+
+Repo ID:   rhel-ha-for-rhel-7-server-beta-source-rpms
+Repo Name: Red Hat Enterprise Linux High Availability (for RHEL 7 Server) Beta (Source RPMs)
+Repo URL:  https://cdn.redhat.com/content/beta/rhel/server/7/$basearch/highavailability/source/SRPMS
+Enabled:   0
+
+Repo ID:   jb-ews-2-for-rhel-7-server-source-rpms
+Repo Name: JBoss Enterprise Web Server 2 (RHEL 7 Server) (Source RPMs)
+Repo URL:  https://cdn.redhat.com/content/dist/rhel/server/7/$releasever/$basearch/jbews/2/source/SRPMS
+Enabled:   0
+
+Repo ID:   rhel-7-server-rh-common-rpms
+Repo Name: Red Hat Enterprise Linux 7 Server - RH Common (RPMs)
+Repo URL:  https://cdn.redhat.com/content/dist/rhel/server/7/$releasever/$basearch/rh-common/os
+Enabled:   0
+
+Repo ID:   rhel-7-server-extras-htb-rpms
+Repo Name: Red Hat Enterprise Linux 7 Server - Extras HTB (RPMs)
+Repo URL:  https://cdn.redhat.com/content/htb/rhel/server/7/$basearch/extras/os
+Enabled:   0
+
+Repo ID:   rhel-7-server-source-rpms
+Repo Name: Red Hat Enterprise Linux 7 Server (Source RPMs)
+Repo URL:  https://cdn.redhat.com/content/dist/rhel/server/7/$releasever/$basearch/source/SRPMS
+Enabled:   0
+
+Repo ID:   rhel-7-server-rhev-mgmt-agent-source-rpms
+Repo Name: Red Hat Enterprise Virtualization Management Agents for RHEL 7 (Source RPMs)
+Repo URL:  https://cdn.redhat.com/content/dist/rhel/server/7/$releasever/$basearch/rhev-mgmt-agent/3/source/SRPMS
+Enabled:   0
+
+Repo ID:   rhel-7-server-rh-common-debug-rpms
+Repo Name: Red Hat Enterprise Linux 7 Server - RH Common (Debug RPMs)
+Repo URL:  https://cdn.redhat.com/content/dist/rhel/server/7/$releasever/$basearch/rh-common/debug
+Enabled:   0
+
+Repo ID:   rhel-7-server-rh-common-beta-source-rpms
+Repo Name: Red Hat Enterprise Linux 7 Server - RH Common Beta (Source RPMs)
+Repo URL:  https://cdn.redhat.com/content/beta/rhel/server/7/$basearch/rh-common/source/SRPMS
+Enabled:   0
+
+Repo ID:   rhel-7-server-fastrack-source-rpms
+Repo Name: Red Hat Enterprise Linux 7 Server - Fastrack (Source RPMs)
+Repo URL:  https://cdn.redhat.com/content/fastrack/rhel/server/7/$basearch/source/SRPMS
+Enabled:   0
+
+Repo ID:   rhel-rs-for-rhel-7-server-fastrack-source-rpms
+Repo Name: Red Hat Enterprise Linux Resilient Storage (for RHEL 7 Server) - Fastrack (Source RPMs)
+Repo URL:  https://cdn.redhat.com/content/fastrack/rhel/server/7/$basearch/resilientstorage/source/SRPMS
+Enabled:   0
+
+Repo ID:   rhel-7-server-supplementary-beta-rpms
+Repo Name: Red Hat Enterprise Linux 7 Server - Supplementary Beta (RPMs)
+Repo URL:  https://cdn.redhat.com/content/beta/rhel/server/7/$basearch/supplementary/os
+Enabled:   0
+
+Repo ID:   rhel-7-server-optional-beta-source-rpms
+Repo Name: Red Hat Enterprise Linux 7 Server - Optional Beta (Source RPMs)
+Repo URL:  https://cdn.redhat.com/content/beta/rhel/server/7/$basearch/optional/source/SRPMS
+Enabled:   0
+
+Repo ID:   rhel-7-server-rh-common-source-rpms
+Repo Name: Red Hat Enterprise Linux 7 Server - RH Common (Source RPMs)
+Repo URL:  https://cdn.redhat.com/content/dist/rhel/server/7/$releasever/$basearch/rh-common/source/SRPMS
+Enabled:   0
+
+Repo ID:   rhel-rs-for-rhel-7-server-beta-source-rpms
+Repo Name: Red Hat Enterprise Linux Resilient Storage (for RHEL 7 Server) Beta (Source RPMs)
+Repo URL:  https://cdn.redhat.com/content/beta/rhel/server/7/$basearch/resilientstorage/source/SRPMS
+Enabled:   0
+
+Repo ID:   rhel-7-server-hts-rpms
+Repo Name: Red Hat Hardware Certification Test Suite (for RHEL 7 Server) (RPMs)
+Repo URL:  https://cdn.redhat.com/content/dist/rhel/server/7/$releasever/$basearch/hts/os
+Enabled:   0
+
+Repo ID:   rhel-7-server-rhn-tools-debug-rpms
+Repo Name: RHN Tools for Red Hat Enterprise Linux 7 Server (Debug RPMs)
+Repo URL:  https://cdn.redhat.com/content/dist/rhel/server/7/$releasever/$basearch/rhn-tools/debug
+Enabled:   0
+
+Repo ID:   rhel-7-server-optional-htb-rpms
+Repo Name: Red Hat Enterprise Linux 7 Server - Optional HTB (RPMs)
+Repo URL:  https://cdn.redhat.com/content/htb/rhel/server/7/$basearch/optional/os
+Enabled:   0
+
+Repo ID:   rhel-7-server-openstack-beta-cts-source-rpms
+Repo Name: Red Hat OpenStack Beta Certification Test Suite for Server 7 (Source RPMs)
+Repo URL:  https://cdn.redhat.com/content/beta/rhel/server/7/$basearch/openstack-cts/source/SRPMS
+Enabled:   0
+
+Repo ID:   rhel-ha-for-rhel-7-server-rpms
+Repo Name: Red Hat Enterprise Linux High Availability (for RHEL 7 Server) (RPMs)
+Repo URL:  https://cdn.redhat.com/content/dist/rhel/server/7/$releasever/$basearch/highavailability/os
+Enabled:   1
+
+Repo ID:   rhel-7-server-rpms
+Repo Name: Red Hat Enterprise Linux 7 Server (RPMs)
+Repo URL:  https://cdn.redhat.com/content/dist/rhel/server/7/$releasever/$basearch/os
+Enabled:   1
+
+Repo ID:   rhel-ha-for-rhel-7-server-htb-rpms
+Repo Name: Red Hat Enterprise Linux High Availability (for RHEL 7 Server) HTB (RPMs)
+Repo URL:  https://cdn.redhat.com/content/htb/rhel/server/7/$basearch/highavailability/os
+Enabled:   1
+
+Repo ID:   rhel-7-server-openstack-5.0-source-rpms
+Repo Name: Red Hat OpenStack 5.0 for RHEL 7 (Source RPMs)
+Repo URL:  https://cdn.redhat.com/content/dist/rhel/server/7/$releasever/$basearch/openstack/5.0/source/SRPMS
+Enabled:   0
+
+Repo ID:   rhel-7-server-rh-common-beta-debug-rpms
+Repo Name: Red Hat Enterprise Linux 7 Server - RH Common Beta (Debug RPMs)
+Repo URL:  https://cdn.redhat.com/content/beta/rhel/server/7/$basearch/rh-common/debug
+Enabled:   0
+
+Repo ID:   jb-eap-6-for-rhel-7-server-source-rpms
+Repo Name: JBoss Enterprise Application Platform 6 (RHEL 7 Server) (Source RPMs)
+Repo URL:  https://cdn.redhat.com/content/dist/rhel/server/7/$releasever/$basearch/jbeap/6/source/SRPMS
+Enabled:   0
+
+Repo ID:   rhel-7-server-supplementary-beta-debug-rpms
+Repo Name: Red Hat Enterprise Linux 7 Server - Supplementary Beta (Debug RPMs)
+Repo URL:  https://cdn.redhat.com/content/beta/rhel/server/7/$basearch/supplementary/debug
+Enabled:   0
+
+Repo ID:   rhel-sap-for-rhel-7-server-beta-source-rpms
+Repo Name: Red Hat Enterprise Linux for SAP (RHEL 7 Server) Beta (Source RPMs)
+Repo URL:  https://cdn.redhat.com/content/beta/rhel/server/7/$basearch/sap/source/SRPMS
+Enabled:   0
+
+Repo ID:   rhel-7-server-openstack-5.0-debug-rpms
+Repo Name: Red Hat OpenStack 5.0 for RHEL 7 (Debug RPMs)
+Repo URL:  https://cdn.redhat.com/content/dist/rhel/server/7/$releasever/$basearch/openstack/5.0/debug
+Enabled:   0
+
+Repo ID:   rhel-rs-for-rhel-7-server-beta-rpms
+Repo Name: Red Hat Enterprise Linux Resilient Storage (for RHEL 7 Server) Beta (RPMs)
+Repo URL:  https://cdn.redhat.com/content/beta/rhel/server/7/$basearch/resilientstorage/os
+Enabled:   0
+
+Repo ID:   rhel-ha-for-rhel-7-server-beta-rpms
+Repo Name: Red Hat Enterprise Linux High Availability (for RHEL 7 Server) Beta (RPMs)
+Repo URL:  https://cdn.redhat.com/content/beta/rhel/server/7/$basearch/highavailability/os
+Enabled:   0
+
+Repo ID:   rhel-x86_64-server-7-mrg-messaging-2-rpms
+Repo Name: Red Hat Enterprise MRG Messaging 2 for RHEL 7 (RPMs)
+Repo URL:  https://cdn.redhat.com/content/dist/rhel/server/7/7Server/$basearch/mrg-m/2/os
+Enabled:   0
+
+Repo ID:   rhel-7-server-beta-rpms
+Repo Name: Red Hat Enterprise Linux 7 Server Beta (RPMs)
+Repo URL:  https://cdn.redhat.com/content/beta/rhel/server/7/$basearch/os
+Enabled:   0
+
+Repo ID:   rhel-7-server-fastrack-debug-rpms
+Repo Name: Red Hat Enterprise Linux 7 Server - Fastrack (Debug RPMs)
+Repo URL:  https://cdn.redhat.com/content/fastrack/rhel/server/7/$basearch/debug
+Enabled:   0
+
+Repo ID:   rhel-rs-for-rhel-7-server-htb-debug-rpms
+Repo Name: Red Hat Enterprise Linux Resilient Storage (for RHEL 7 Server) HTB (Debug RPMs)
+Repo URL:  https://cdn.redhat.com/content/htb/rhel/server/7/$basearch/resilientstorage/debug
+Enabled:   0
+
+Repo ID:   rhel-sap-for-rhel-7-server-beta-debug-rpms
+Repo Name: Red Hat Enterprise Linux for SAP (RHEL 7 Server) Beta (Debug RPMs)
+Repo URL:  https://cdn.redhat.com/content/beta/rhel/server/7/$basearch/sap/debug
+Enabled:   0
+
+Repo ID:   rhel-ha-for-rhel-7-server-fastrack-source-rpms
+Repo Name: Red Hat Enterprise Linux High Availability (for RHEL 7 Server) - Fastrack (Source RPMs)
+Repo URL:  https://cdn.redhat.com/content/fastrack/rhel/server/7/$basearch/highavailability/source/SRPMS
+Enabled:   0
+
+Repo ID:   rhel-ha-for-rhel-7-server-debug-rpms
+Repo Name: Red Hat Enterprise Linux High Availability (for RHEL 7 Server) (Debug RPMs)
+Repo URL:  https://cdn.redhat.com/content/dist/rhel/server/7/$releasever/$basearch/highavailability/debug
+Enabled:   0
+
+Repo ID:   rhel-7-server-openstack-beta-debug-rpms
+Repo Name: Red Hat OpenStack Beta for Server 7 (Debug RPMs)
+Repo URL:  https://cdn.redhat.com/content/beta/rhel/server/7/$basearch/openstack/debug
+Enabled:   0
+
+Repo ID:   rhel-7-server-supplementary-rpms
+Repo Name: Red Hat Enterprise Linux 7 Server - Supplementary (RPMs)
+Repo URL:  https://cdn.redhat.com/content/dist/rhel/server/7/$releasever/$basearch/supplementary/os
+Enabled:   0
+
+Repo ID:   rhel-7-server-optional-rpms
+Repo Name: Red Hat Enterprise Linux 7 Server - Optional (RPMs)
+Repo URL:  https://cdn.redhat.com/content/dist/rhel/server/7/$releasever/$basearch/optional/os
+Enabled:   0
+
+Repo ID:   rhel-7-server-htb-source-rpms
+Repo Name: Red Hat Enterprise Linux 7 Server HTB (Source RPMs)
+Repo URL:  https://cdn.redhat.com/content/htb/rhel/server/7/$basearch/source/SRPMS
+Enabled:   0
+
+Repo ID:   rhel-7-server-hts-source-rpms
+Repo Name: Red Hat Hardware Certification Test Suite (for RHEL 7 Server) (Source RPMs)
+Repo URL:  https://cdn.redhat.com/content/dist/rhel/server/7/$releasever/$basearch/hts/source/SRPMS
+Enabled:   0
+
+Repo ID:   jb-ews-2-for-rhel-7-server-rpms
+Repo Name: JBoss Enterprise Web Server 2 (RHEL 7 Server) (RPMs)
+Repo URL:  https://cdn.redhat.com/content/dist/rhel/server/7/$releasever/$basearch/jbews/2/os
+Enabled:   0
+
+Repo ID:   rhel-7-server-rhn-tools-source-rpms
+Repo Name: RHN Tools for Red Hat Enterprise Linux 7 Server (Source RPMs)
+Repo URL:  https://cdn.redhat.com/content/dist/rhel/server/7/$releasever/$basearch/rhn-tools/source/SRPMS
+Enabled:   0
+
+Repo ID:   rhel-7-server-supplementary-source-rpms
+Repo Name: Red Hat Enterprise Linux 7 Server - Supplementary (Source RPMs)
+Repo URL:  https://cdn.redhat.com/content/dist/rhel/server/7/$releasever/$basearch/supplementary/source/SRPMS
+Enabled:   0
+
+Repo ID:   rhel-rs-for-rhel-7-server-htb-rpms
+Repo Name: Red Hat Enterprise Linux Resilient Storage (for RHEL 7 Server) HTB (RPMs)
+Repo URL:  https://cdn.redhat.com/content/htb/rhel/server/7/$basearch/resilientstorage/os
+Enabled:   1
+
+Repo ID:   rhel-7-server-beta-debug-rpms
+Repo Name: Red Hat Enterprise Linux 7 Server Beta (Debug RPMs)
+Repo URL:  https://cdn.redhat.com/content/beta/rhel/server/7/$basearch/debug
+Enabled:   0
+
+Repo ID:   rhel-x86_64-server-7-mrg-messaging-2-debug-rpms
+Repo Name: Red Hat Enterprise MRG Messaging 2 for RHEL 7 (Debug RPMs)
+Repo URL:  https://cdn.redhat.com/content/dist/rhel/server/7/7Server/$basearch/mrg-m/2/debug
+Enabled:   0
+
+Repo ID:   rhel-7-server-optional-beta-rpms
+Repo Name: Red Hat Enterprise Linux 7 Server - Optional Beta (RPMs)
+Repo URL:  https://cdn.redhat.com/content/beta/rhel/server/7/$basearch/optional/os
+Enabled:   0
+

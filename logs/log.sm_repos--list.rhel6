@@ -1,0 +1,2083 @@
++----------------------------------------------------------+
+/etc/yum.repos.d/redhat.repo 内の利用可能なレポジトリ
++----------------------------------------------------------+
+レポジトリ ID:  rhel-lb-for-rhel-6-server-eus-rpms
+レポジトリ名:   Red Hat Enterprise Linux Load Balancer (for RHEL 6 Server) - Extended Update Support (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/eus/rhel/server/6/$releasever/$basearch/loadbalancer/os
+有効:           1
+
+レポジトリ ID:  rhel-6-server-rhs-client-1-source-rpms
+レポジトリ名:   Red Hat Storage Native Client for RHEL 6 (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/rhs-client/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-extras-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server - Extras (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/6Server/$basearch/extras/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-ose-2-beta-node-debug-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise 2 Application Node Beta (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/ose-node/2/debug
+有効:           0
+
+レポジトリ ID:  rhel-6-server-ose-2.0-infra-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise 2.0 Infrastructure (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/ose-infra/2.0/os
+有効:           0
+
+レポジトリ ID:  rhel-6-server-optional-debug-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server - Optional (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/optional/debug
+有効:           0
+
+レポジトリ ID:  rhel-ha-for-rhel-6-server-fastrack-debug-rpms
+レポジトリ名:   Red Hat Enterprise Linux High Availability (for RHEL 6 Server) - Fastrack (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/fastrack/rhel/server/6/$basearch/highavailability/debug
+有効:           0
+
+レポジトリ ID:  rhel-6-server-rhevm-3.3-source-rpms
+レポジトリ名:   Red Hat Enterprise Virtualization Manager 3.3 (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/rhevm/3.3/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-rs-for-rhel-6-server-fastrack-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux Resilient Storage (for RHEL 6 Server) - Fastrack (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/fastrack/rhel/server/6/$basearch/resilientstorage/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-server-dts2-6-rpms
+レポジトリ名:   Red Hat Developer Toolset 2 RPMs for Red Hat Enterprise Linux 6 Server
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/devtoolset/2/os
+有効:           1
+
+レポジトリ ID:  rhel-hpn-for-rhel-6-server-debug-rpms
+レポジトリ名:   Red Hat Enterprise Linux High Performance Networking (for RHEL 6 Server) (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/hpn/debug
+有効:           0
+
+レポジトリ ID:  rhel-6-server-aus-optional-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server - AUS - Optional (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/aus/rhel/server/6/$releasever/$basearch/optional/os
+有効:           0
+
+レポジトリ ID:  rhel-6-server-aus-debug-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server - AUS (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/aus/rhel/server/6/$releasever/$basearch/debug
+有効:           0
+
+レポジトリ ID:  rhel-server-rhscl-6-eus-debug-rpms
+レポジトリ名:   Red Hat Software Collections Debug RPMs for Red Hat Enterprise Linux 6 RHEL 6 Server EUS
+レポジトリ URL: https://cdn.redhat.com/content/eus/rhel/server/6/$releasever/$basearch/rhscl/1/debug
+有効:           0
+
+レポジトリ ID:  rhel-server-ose-1.2-infra-6-debug-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise 1.2 Infrastructure (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/ose-infra/1.2/debug
+有効:           0
+
+レポジトリ ID:  rhel-server-dts-6-rhb-debug-rpms
+レポジトリ名:   Red Hat Developer Toolset RHB Debug RPMs for Red Hat Enterprise Linux 6 Server
+レポジトリ URL: https://cdn.redhat.com/content/rhb/rhel/server/6/6Server/$basearch/devtoolset/debug
+有効:           0
+
+レポジトリ ID:  rhel-6-server-beta-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server Beta (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/os
+有効:           0
+
+レポジトリ ID:  rhel-server-dts-6-beta-source-rpms
+レポジトリ名:   Red Hat Developer Toolset Beta Source RPMs for Red Hat Enterprise Linux 6 Server
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/devtoolset/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-scalefs-for-rhel-6-server-beta-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux Scalable File System (for RHEL 6 Server) Beta (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/scalablefilesystem/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-eucjp-for-rhel-6-server-source-rpms
+レポジトリ名:   Red Hat EUCJP Support (RHEL 6 Server) (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/eucjp/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-openstack-5.0-source-rpms
+レポジトリ名:   Red Hat OpenStack 5.0 for RHEL 6 (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/openstack/5.0/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-sam-beta-rpms
+レポジトリ名:   Red Hat Subscription Asset Manager (for RHEL 6 Server) Beta (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/subscription-asset-manager/os
+有効:           0
+
+レポジトリ ID:  rhel-server-rhscl-6-debug-rpms
+レポジトリ名:   Red Hat Software Collections Debug RPMs for Red Hat Enterprise Linux 6 Server
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/rhscl/1/debug
+有効:           0
+
+レポジトリ ID:  rhel-6-server-aus-supplementary-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server - AUS - Supplementary (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/aus/rhel/server/6/$releasever/$basearch/supplementary/os
+有効:           0
+
+レポジトリ ID:  rhel-server-ose-infra-6-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise Infrastructure (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/ose-infra/1/os
+有効:           0
+
+レポジトリ ID:  rhs-2.1-for-rhel-6-server-debug-rpms
+レポジトリ名:   Red Hat Storage 2.1 Server for On-premise (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhs/server/2.1/$basearch/debug
+有効:           0
+
+レポジトリ ID:  rhel-6-server-ose-2.1-rhc-source-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise 2.1 Client Tools (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/ose-rhc/2.1/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-eus-rh-common-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server - Extended Update Support - RH Common (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/eus/rhel/server/6/$releasever/$basearch/rh-common/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-scalefs-for-rhel-6-server-fastrack-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux Scalable File System (for RHEL 6 Server) - Fastrack (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/fastrack/rhel/server/6/$basearch/scalablefilesystem/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-rs-for-rhel-6-server-beta-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux Resilient Storage (for RHEL 6 Server) Beta (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/resilientstorage/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-ose-2.0-node-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise 2.0 Application Node (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/ose-node/2.0/os
+有効:           0
+
+レポジトリ ID:  rhel-6-server-mrg-messaging-2-source-rpms
+レポジトリ名:   Red Hat Enterprise MRG Messaging 2 (for RHEL 6 Server) (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/mrg-m/2/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-sfs-for-rhel-6-server-aus-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux Scalable File System (for RHEL 6 Server) - AUS (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/aus/rhel/server/6/$releasever/$basearch/scalablefilesystem/source/SRPMS
+有効:           0
+
+レポジトリ ID:  jb-eap-5-for-rhel-6-server-source-rpms
+レポジトリ名:   JBoss Enterprise Application Platform 5 (RHEL 6 Server) (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/jbeap/5/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-server-ose-rhc-6-beta-debug-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise Client Tools Beta (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/ose-rhc/1/debug
+有効:           0
+
+レポジトリ ID:  jb-ews-1-for-rhel-6-server-rpms
+レポジトリ名:   JBoss Enterprise Web Server 1 (RHEL 6 Server) (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/jbews/1/os
+有効:           0
+
+レポジトリ ID:  rhel-6-server-htb-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server HTB (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/htb/rhel/server/6/$releasever/$basearch/os
+有効:           1
+
+レポジトリ ID:  rhel-sjis-for-rhel-6-server-beta-rpms
+レポジトリ名:   Red Hat Enterprise Linux for S-JIS (RHEL 6 Server) Beta (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/sjis/os
+有効:           0
+
+レポジトリ ID:  rhel-6-server-rhevm-3-debug-rpms
+レポジトリ名:   Red Hat Enterprise Virtualization Manager 3 (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/rhevm/3/debug
+有効:           0
+
+レポジトリ ID:  rhel-6-server-rhn-tools-debug-rpms
+レポジトリ名:   RHN Tools for Red Hat Enterprise Linux 6 Server (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/rhn-tools/debug
+有効:           0
+
+レポジトリ ID:  rhel-6-server-grid-debug-rpms
+レポジトリ名:   MRG Grid (for RHEL 6 Server) (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/mrg-g/2.0/debug
+有効:           0
+
+レポジトリ ID:  rhel-server-ose-1.2-rhc-6-debug-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise 1.2 Client Tools (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/ose-rhc/1.2/debug
+有効:           0
+
+レポジトリ ID:  rhel-sfs-for-rhel-6-server-aus-rpms
+レポジトリ名:   Red Hat Enterprise Linux Scalable File System (for RHEL 6 Server) - AUS (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/aus/rhel/server/6/$releasever/$basearch/scalablefilesystem/os
+有効:           1
+
+レポジトリ ID:  rhel-hpn-for-rhel-6-server-rpms
+レポジトリ名:   Red Hat Enterprise Linux High Performance Networking (for RHEL 6 Server) (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/hpn/os
+有効:           1
+
+レポジトリ ID:  rhel-6-server-supplementary-beta-debuginfo
+レポジトリ名:   Red Hat Enterprise Linux 6 Server - Supplementary Beta (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/supplementary/debug
+有効:           0
+
+レポジトリ ID:  rhel-6-server-eus-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server - Extended Update Support (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/eus/rhel/server/6/$releasever/$basearch/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-eus-supplementary-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server - Extended Update Support - Supplementary (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/eus/rhel/server/6/$releasever/$basearch/supplementary/os
+有効:           0
+
+レポジトリ ID:  rhel-6-server-aus-rh-common-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server - AUS - RH Common (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/aus/rhel/server/6/$releasever/$basearch/rh-common/os
+有効:           0
+
+レポジトリ ID:  jb-ewp-5-for-rhel-6-server-source-rpms
+レポジトリ名:   JBoss Enterprise Web Platform 5 (RHEL 6 Server) (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/jbewp/5/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-sap-for-rhel-6-server-beta-rpms
+レポジトリ名:   Red Hat Enterprise Linux for SAP (RHEL 6 Server) Beta (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/sap/os
+有効:           0
+
+レポジトリ ID:  rhel-6-server-eus-optional-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server - Extended Update Support - Optional (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/eus/rhel/server/6/$releasever/$basearch/optional/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-lb-for-rhel-6-server-beta-rpms
+レポジトリ名:   Red Hat Enterprise Linux Load Balancer (for RHEL 6 Server) Beta (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/loadbalancer/os
+有効:           0
+
+レポジトリ ID:  rhel-6-server-eus-rhn-tools-debug-rpms
+レポジトリ名:   RHN Tools for Red Hat Enterprise Linux 6 Server - Extended Update Support (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/eus/rhel/server/6/$releasever/$basearch/rhn-tools/debug
+有効:           0
+
+レポジトリ ID:  rhel-sap-hana-for-rhel-6-server-source-rpms
+レポジトリ名:   RHEL for SAP HANA (for RHEL 6 Server) (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/sap-hana/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-rhevm-3-source-rpms
+レポジトリ名:   Red Hat Enterprise Virtualization Manager (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/rhevm/3/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6.4-scalefs-server-for-rhs-2.1-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6.4 Scalable File System for RHS 2.1 (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhs/server/2.1/$basearch/rhel/6.4/scalablefilesystem/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-rhev-agent-debug-rpms
+レポジトリ名:   Red Hat Enterprise Virtualization Agents for RHEL 6 Server (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/rhev-agent/3/debug
+有効:           0
+
+レポジトリ ID:  rhsc-2.1-for-rhel-6-server-source-rpms
+レポジトリ名:   Red Hat Storage 2.1 Management Console (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhs/console/2.1/$basearch/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-server-ose-infra-6-debug-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise Infrastructure (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/ose-infra/1/debug
+有効:           0
+
+レポジトリ ID:  rhel-6-server-rhn-tools-beta-debug-rpms
+レポジトリ名:   RHN Tools for Red Hat Enterprise Linux 6 Server Beta (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/rhn-tools/debug
+有効:           0
+
+レポジトリ ID:  rhel-sfs-for-rhel-6-server-eus-rpms
+レポジトリ名:   Red Hat Enterprise Linux Scalable File System (for RHEL 6 Server) - Extended Update Support (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/eus/rhel/server/6/$releasever/$basearch/scalablefilesystem/os
+有効:           1
+
+レポジトリ ID:  rhel-6-server-ose-2.0-node-debug-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise 2.0 Application Node (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/ose-node/2.0/debug
+有効:           0
+
+レポジトリ ID:  rhel-6.2-scalefs-server-for-rhs-2.0-debug-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6.2 Scalable File System for RHS 2.0 (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhs/server/2.0/$basearch/rhel/6.2/scalablefilesystem/debug
+有効:           0
+
+レポジトリ ID:  rhel-server-6-rhds-9-beta-rpms
+レポジトリ名:   Red Hat Directory Server 9 Beta RPMs for Red Hat Enterprise Linux 6 Server
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/directoryserver/9/os
+有効:           0
+
+レポジトリ ID:  rhel-6-server-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/os
+有効:           1
+
+レポジトリ ID:  rhsc-2.0-for-rhel-6-server-debug-rpms
+レポジトリ名:   Red Hat Storage 2.0 Management Console (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhs/console/2.0/$basearch/debug
+有効:           0
+
+レポジトリ ID:  rhel-6-server-ose-2-beta-jbosseap-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise 2 JBoss EAP add-on Beta (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/ose-jbosseap/2/os
+有効:           0
+
+レポジトリ ID:  rhel-6-server-fastrack-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server - Fastrack (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/fastrack/rhel/server/6/$basearch/os
+有効:           0
+
+レポジトリ ID:  rhel-6-server-cf-tools-1-debug-rpms
+レポジトリ名:   Red Hat CloudForms Tools for RHEL 6 (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/cf-tools/1/debug
+有効:           0
+
+レポジトリ ID:  rhel-6-server-ose-2.1-rhc-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise 2.1 Client Tools (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/ose-rhc/2.1/os
+有効:           0
+
+レポジトリ ID:  rhel-server-ose-node-6-beta-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise Application Node Beta (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/ose-node/1/os
+有効:           0
+
+レポジトリ ID:  rhel-rs-for-rhel-6-server-htb-rpms
+レポジトリ名:   Red Hat Enterprise Linux Resilient Storage (for RHEL 6 Server) HTB (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/htb/rhel/server/6/$releasever/$basearch/resilientstorage/os
+有効:           0
+
+レポジトリ ID:  rhel-6-server-ose-2.1-infra-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise 2.1 Infrastructure (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/ose-infra/2.1/os
+有効:           0
+
+レポジトリ ID:  rhel-6-server-sam-debug-rpms
+レポジトリ名:   Red Hat Subscription Asset Manager (for RHEL 6 Server) (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/subscription-asset-manager/1/debug
+有効:           0
+
+レポジトリ ID:  rhel-6-server-optional-beta-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server - Optional Beta (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/optional/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-ose-2-beta-node-source-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise 2 Application Node Beta (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/ose-node/2/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-lb-for-rhel-6-server-aus-debug-rpms
+レポジトリ名:   Red Hat Enterprise Linux Load Balancer (for RHEL 6 Server) - AUS (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/aus/rhel/server/6/$releasever/$basearch/loadbalancer/debug
+有効:           0
+
+レポジトリ ID:  rhel-scalefs-for-rhel-6-server-htb-debug-rpms
+レポジトリ名:   Red Hat Enterprise Linux Scalable File System (for RHEL 6 Server) HTB (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/htb/rhel/server/6/$releasever/$basearch/scalablefilesystem/debug
+有効:           0
+
+レポジトリ ID:  rhel-6.2-server-for-rhs-2.0-debug-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6.2 Server for RHS 2.0 (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhs/server/2.0/$basearch/rhel/6.2/debug
+有効:           0
+
+レポジトリ ID:  rhel-server-dts-6-debug-rpms
+レポジトリ名:   Red Hat Developer Toolset Debug RPMs for Red Hat Enterprise Linux 6 Server
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/devtoolset/debug
+有効:           0
+
+レポジトリ ID:  rhel-6-server-mrg-messaging-2-rpms
+レポジトリ名:   Red Hat Enterprise MRG Messaging 2 (for RHEL 6 Server) (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/mrg-m/2/os
+有効:           0
+
+レポジトリ ID:  rhel-6-server-rhevm-3-beta-source-rpms
+レポジトリ名:   Red Hat Enterprise Virtualization Manager 3 Beta (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/rhevm/3/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-ose-2-beta-infra-debug-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise 2 Infrastructure Beta (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/ose-infra/2/debug
+有効:           0
+
+レポジトリ ID:  rhel-server-ose-1.2-node-6-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise 1.2 Application Node (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/ose-node/1.2/os
+有効:           0
+
+レポジトリ ID:  rhel-6.4-scalefs-server-for-rhs-2.1-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6.4 Scalable File System for RHS 2.1 (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhs/server/2.1/$basearch/rhel/6.4/scalablefilesystem/os
+有効:           0
+
+レポジトリ ID:  rhel-server-ost-6-preview-source-rpms
+レポジトリ名:   Red Hat OpenStack Essex Preview (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/openstack/essex/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-beta-debug-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server Beta (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/debug
+有効:           0
+
+レポジトリ ID:  rhel-6-server-cf-tools-1-rpms
+レポジトリ名:   Red Hat CloudForms Tools for RHEL 6 (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/cf-tools/1/os
+有効:           0
+
+レポジトリ ID:  rhel-6-server-rh-common-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server - RH Common (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/rh-common/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-sam-htb-debug-rpms
+レポジトリ名:   Red Hat Subscription Asset Manager (for RHEL 6 Server) HTB (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/htb/rhel/server/6/$releasever/$basearch/subscription-asset-manager/debug
+有効:           0
+
+レポジトリ ID:  rhs-2.0-for-rhel-6-server-source-rpms
+レポジトリ名:   Red Hat Storage 2.0 Server for On-premise (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhs/server/2.0/$basearch/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-server-ose-node-6-beta-debug-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise Application Node Beta (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/ose-node/1/debug
+有効:           0
+
+レポジトリ ID:  rhs-2.1-for-rhel-6-server-rpms
+レポジトリ名:   Red Hat Storage 2.1 Server for On-premise (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhs/server/2.1/$basearch/os
+有効:           0
+
+レポジトリ ID:  rhel-server-dts2-6-eus-debug-rpms
+レポジトリ名:   Red Hat Developer Toolset 2 for RHEL 6 Server EUS (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/eus/rhel/server/6/$releasever/$basearch/devtoolset/2/debug
+有効:           0
+
+レポジトリ ID:  rhel-6-server-aus-supplementary-debuginfo
+レポジトリ名:   Red Hat Enterprise Linux 6 Server - AUS - Supplementary (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/aus/rhel/server/6/$releasever/$basearch/supplementary/debug
+有効:           0
+
+レポジトリ ID:  rhel-rs-for-rhel-6-server-eus-rpms
+レポジトリ名:   Red Hat Enterprise Linux Resilient Storage (for RHEL 6 Server) - Extended Update Support (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/eus/rhel/server/6/$releasever/$basearch/resilientstorage/os
+有効:           1
+
+レポジトリ ID:  rhel-hpn-for-rhel-6-server-fastrack-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux High Performance Networking (for RHEL 6 Server) - Fastrack (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/fastrack/rhel/server/6/$basearch/hpn/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-rs-for-rhel-6-server-eus-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux Resilient Storage (for RHEL 6 Server) - Extended Update Support (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/eus/rhel/server/6/$releasever/$basearch/resilientstorage/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-debug-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/debug
+有効:           0
+
+レポジトリ ID:  rhel-server-ost-6-preview-rpms
+レポジトリ名:   Red Hat OpenStack Essex Preview (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/openstack/essex/os
+有効:           0
+
+レポジトリ ID:  rhel-6-server-rh-common-debug-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server - RH Common (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/rh-common/debug
+有効:           0
+
+レポジトリ ID:  rhel-6-server-v2vwin-1-rpms
+レポジトリ名:   Red Hat Virt V2V Tool for RHEL 6 (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/v2vwin/os
+有効:           0
+
+レポジトリ ID:  rhel-6.4-server-for-rhs-2.1-debug-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6.4 Server for RHS 2.1 (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhs/server/2.1/$basearch/rhel/6.4/debug
+有効:           0
+
+レポジトリ ID:  rhel-6-server-rhevm-3.4-rpms
+レポジトリ名:   Red Hat Enterprise Virtualization Manager 3.4 (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/rhevm/3.4/os
+有効:           0
+
+レポジトリ ID:  rhel-scalefs-for-rhel-6-server-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux Scalable File System (for RHEL 6 Server) (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/scalablefilesystem/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-aus-thirdparty-oracle-java-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server - AUS - Oracle Java (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/aus/rhel/server/6/$releasever/$basearch/oracle-java/os
+有効:           0
+
+レポジトリ ID:  rhel-server-ose-node-6-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise Application Node (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/ose-node/1/os
+有効:           0
+
+レポジトリ ID:  rhel-ha-for-rhel-6-server-aus-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux High Availability (for RHEL 6 Server) - AUS (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/aus/rhel/server/6/$releasever/$basearch/highavailability/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-server-dts2-6-eus-rpms
+レポジトリ名:   Red Hat Developer Toolset 2 for RHEL 6 Server EUS (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/eus/rhel/server/6/$releasever/$basearch/devtoolset/2/os
+有効:           1
+
+レポジトリ ID:  rhel-server-ose-jbosseap-6-beta-debug-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise JBoss EAP add-on Beta (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/ose-jbosseap/1/debug
+有効:           0
+
+レポジトリ ID:  rhel-sjis-for-rhel-6-server-beta-debug-rpms
+レポジトリ名:   Red Hat Enterprise Linux for S-JIS (RHEL 6 Server) Beta (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/sjis/debug
+有効:           0
+
+レポジトリ ID:  jb-ews-2-for-rhel-6-server-rpms
+レポジトリ名:   JBoss Enterprise Web Server 2 (RHEL 6 Server) (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/jbews/2/os
+有効:           0
+
+レポジトリ ID:  rhel-6-server-eus-optional-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server - Extended Update Support - Optional (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/eus/rhel/server/6/$releasever/$basearch/optional/os
+有効:           0
+
+レポジトリ ID:  rhel-server-ose-1.2-jbosseap-6-debug-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise 1.2 JBoss EAP add-on (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/ose-jbosseap/1.2/debug
+有効:           0
+
+レポジトリ ID:  rhel-ha-for-rhel-6-server-fastrack-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux High Availability (for RHEL 6 Server) - Fastrack (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/fastrack/rhel/server/6/$basearch/highavailability/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-lb-for-rhel-6-server-fastrack-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux Load Balancer (for RHEL 6 Server) - Fastrack (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/fastrack/rhel/server/6/$basearch/loadbalancer/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-rhev-agent-rpms
+レポジトリ名:   Red Hat Enterprise Virtualization Agents for RHEL 6 Server (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/rhev-agent/3/os
+有効:           0
+
+レポジトリ ID:  rhel-server-rhscl-6-eus-source-rpms
+レポジトリ名:   Red Hat Software Collections Source RPMs for Red Hat Enterprise Linux 6 RHEL 6 Server EUS
+レポジトリ URL: https://cdn.redhat.com/content/eus/rhel/server/6/$releasever/$basearch/rhscl/1/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-rhevm-3.2-rpms
+レポジトリ名:   Red Hat Enterprise Virtualization Manager 3.2 (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/rhevm/3.2/os
+有効:           0
+
+レポジトリ ID:  rhel-6-server-rhev-mgmt-agent-source-rpms
+レポジトリ名:   Red Hat Enterprise Virtualization Management Agents (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/rhev-mgmt-agent/3/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-rhev-mgmt-agent-beta-source-rpms
+レポジトリ名:   Red Hat Enterprise Virtualization Management Agents Beta (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/rhev-mgmt-agent/3/source/SRPMS
+有効:           0
+
+レポジトリ ID:  jb-ewp-5-for-rhel-6-server-rpms
+レポジトリ名:   JBoss Enterprise Web Platform 5 (RHEL 6 Server) (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/jbewp/5/os
+有効:           0
+
+レポジトリ ID:  rhel-6-server-ose-2-beta-rhc-source-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise 2 Client Tools Beta (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/ose-rhc/2/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-sfs-for-rhel-6-server-aus-debug-rpms
+レポジトリ名:   Red Hat Enterprise Linux Scalable File System (for RHEL 6 Server) - AUS (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/aus/rhel/server/6/$releasever/$basearch/scalablefilesystem/debug
+有効:           0
+
+レポジトリ ID:  rhel-server-dts2-6-source-rpms
+レポジトリ名:   Red Hat Developer Toolset 2 Source RPMs for Red Hat Enterprise Linux 6 Server
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/devtoolset/2/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-server-ost-6-folsom-debug-rpms
+レポジトリ名:   Red Hat OpenStack Folsom Preview (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/openstack/folsom/debug
+有効:           0
+
+レポジトリ ID:  rhel-sap-for-rhel-6-server-beta-debug-rpms
+レポジトリ名:   Red Hat Enterprise Linux for SAP (RHEL 6 Server) Beta (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/sap/debug
+有効:           0
+
+レポジトリ ID:  rhel-hpn-for-rhel-6-server-beta-debug-rpms
+レポジトリ名:   Red Hat Enterprise Linux High Performance Networking (for RHEL 6 Server) Beta (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/hpn/debug
+有効:           0
+
+レポジトリ ID:  rhel-6-server-sam-rpms
+レポジトリ名:   Red Hat Subscription Asset Manager (for RHEL 6 Server) (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/subscription-asset-manager/1/os
+有効:           0
+
+レポジトリ ID:  rhel-6-server-openstack-4.0-debug-rpms
+レポジトリ名:   Red Hat OpenStack 4.0 (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/openstack/4.0/debug
+有効:           0
+
+レポジトリ ID:  rhsc-2.0-for-rhel-6-server-rpms
+レポジトリ名:   Red Hat Storage 2.0 Management Console (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhs/console/2.0/$basearch/os
+有効:           1
+
+レポジトリ ID:  rhel-sfs-for-rhel-6-server-eus-debug-rpms
+レポジトリ名:   Red Hat Enterprise Linux Scalable File System (for RHEL 6 Server) - Extended Update Support (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/eus/rhel/server/6/$releasever/$basearch/scalablefilesystem/debug
+有効:           0
+
+レポジトリ ID:  rhel-6-server-aus-rh-common-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server - AUS - RH Common (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/aus/rhel/server/6/$releasever/$basearch/rh-common/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-optional-htb-debug-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server - Optional HTB (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/htb/rhel/server/6/$releasever/$basearch/optional/debug
+有効:           0
+
+レポジトリ ID:  rhel-sjis-for-rhel-6-server-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux for S-JIS (RHEL 6 Server) (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/sjis/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-server-dts2-6-beta-source-rpms
+レポジトリ名:   Red Hat Developer Toolset 2 Beta Source RPMs for Red Hat Enterprise Linux 6 Server
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/devtoolset/2/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-openstack-beta-cts-source-rpms
+レポジトリ名:   Red Hat OpenStack Beta Certification Test Suite for Server 6 (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/openstack-cts/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-ha-for-rhel-6-server-aus-debug-rpms
+レポジトリ名:   Red Hat Enterprise Linux High Availability (for RHEL 6 Server) - AUS (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/aus/rhel/server/6/$releasever/$basearch/highavailability/debug
+有効:           0
+
+レポジトリ ID:  rhel-server-ose-jbosseap-6-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise JBoss EAP add-on (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/ose-jbosseap/1/os
+有効:           0
+
+レポジトリ ID:  rhel-server-6-rhds-9-source-rpms
+レポジトリ名:   Red Hat Directory Server 9 Source RPMs for Red Hat Enterprise Linux 6 Server
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/directoryserver/9/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-cf-tools-1-beta-rpms
+レポジトリ名:   Red Hat CloudForms Tools for RHEL 6 Beta (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/cf-tools/1/os
+有効:           0
+
+レポジトリ ID:  rhel-6-server-supplementary-beta-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server - Supplementary Beta (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/supplementary/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-rs-for-rhel-6-server-aus-rpms
+レポジトリ名:   Red Hat Enterprise Linux Resilient Storage (for RHEL 6 Server) - AUS (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/aus/rhel/server/6/$releasever/$basearch/resilientstorage/os
+有効:           1
+
+レポジトリ ID:  rhel-server-dts2-6-beta-rpms
+レポジトリ名:   Red Hat Developer Toolset 2 Beta RPMs for Red Hat Enterprise Linux 6 Server
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/devtoolset/2/os
+有効:           0
+
+レポジトリ ID:  rhs-2.0-for-rhel-6-server-rpms
+レポジトリ名:   Red Hat Storage 2.0 Server for On-premise (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhs/server/2.0/$basearch/os
+有効:           1
+
+レポジトリ ID:  rhel-server-6-rhds-9-rpms
+レポジトリ名:   Red Hat Directory Server 9 RPMs for Red Hat Enterprise Linux 6 Server
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/directoryserver/9/os
+有効:           1
+
+レポジトリ ID:  rhel-sap-hana-for-rhel-6-server-debug-rpms
+レポジトリ名:   RHEL for SAP HANA (for RHEL 6 Server) (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/sap-hana/debug
+有効:           0
+
+レポジトリ ID:  rhel-server-rhscl-6-source-rpms
+レポジトリ名:   Red Hat Software Collections Source RPMs for Red Hat Enterprise Linux 6 Server
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/rhscl/1/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-server-ose-1.2-jbosseap-6-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise 1.2 JBoss EAP add-on (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/ose-jbosseap/1.2/os
+有効:           0
+
+レポジトリ ID:  rhel-sjis-for-rhel-6-server-rpms
+レポジトリ名:   Red Hat Enterprise Linux for S-JIS (RHEL 6 Server) (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/sjis/os
+有効:           1
+
+レポジトリ ID:  rhel-hpn-for-rhel-6-server-fastrack-debug-rpms
+レポジトリ名:   Red Hat Enterprise Linux High Performance Networking (for RHEL 6 Server) - Fastrack (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/fastrack/rhel/server/6/$basearch/hpn/debug
+有効:           0
+
+レポジトリ ID:  rhel-6-server-ose-2.1-infra-debug-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise 2.1 Infrastructure (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/ose-infra/2.1/debug
+有効:           0
+
+レポジトリ ID:  rhel-6-server-openstack-foreman-rpms
+レポジトリ名:   RHEL OpenStack Platform Installer for Server 6 (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/openstack/foreman/os
+有効:           0
+
+レポジトリ ID:  rhel-6-server-hts-rpms
+レポジトリ名:   Red Hat Hardware Certification Test Suite (for RHEL 6 Server) (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/hts/os
+有効:           0
+
+レポジトリ ID:  rhel-scalefs-for-rhel-6-server-fastrack-rpms
+レポジトリ名:   Red Hat Enterprise Linux Scalable File System (for RHEL 6 Server) - Fastrack (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/fastrack/rhel/server/6/$basearch/scalablefilesystem/os
+有効:           0
+
+レポジトリ ID:  rhel-hpn-for-rhel-6-server-beta-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux High Performance Networking (for RHEL 6 Server) Beta (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/hpn/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-server-ose-1.2-infra-6-source-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise 1.2 Infrastructure (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/ose-infra/1.2/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-ose-2.1-jbosseap-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise 2.1 JBoss EAP add-on (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/ose-jbosseap/2.1/os
+有効:           0
+
+レポジトリ ID:  rhel-6-server-rhev-mgmt-agent-rpms
+レポジトリ名:   Red Hat Enterprise Virtualization Management Agents (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/rhev-mgmt-agent/3/os
+有効:           0
+
+レポジトリ ID:  rhel-6-server-cf-tools-1-beta-debug-rpms
+レポジトリ名:   Red Hat CloudForms Tools for RHEL 6 Beta (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/cf-tools/1/debug
+有効:           0
+
+レポジトリ ID:  rhel-6-server-realtime-rpms
+レポジトリ名:   MRG Realtime (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/mrg-r/2/os
+有効:           1
+
+レポジトリ ID:  rhel-server-dts-6-beta-rpms
+レポジトリ名:   Red Hat Developer Toolset Beta RPMs for Red Hat Enterprise Linux 6 Server
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/devtoolset/os
+有効:           0
+
+レポジトリ ID:  rhel-sap-for-rhel-6-server-rpms
+レポジトリ名:   Red Hat Enterprise Linux for SAP (RHEL 6 Server) (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/sap/os
+有効:           1
+
+レポジトリ ID:  rhel-ha-for-rhel-6-server-beta-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux High Availability (for RHEL 6 Server) Beta (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/highavailability/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-sam-htb-rpms
+レポジトリ名:   Red Hat Subscription Asset Manager (for RHEL 6 Server) HTB (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/htb/rhel/server/6/$releasever/$basearch/subscription-asset-manager/os
+有効:           0
+
+レポジトリ ID:  rhel-6-server-rhev-agent-source-rpms
+レポジトリ名:   Red Hat Enterprise Virtualization Agents for RHEL 6 Server (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/rhev-agent/3/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-mrg-messaging-2-debug-rpms
+レポジトリ名:   Red Hat Enterprise MRG Messaging 2 (for RHEL 6 Server) (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/mrg-m/2/debug
+有効:           0
+
+レポジトリ ID:  rhel-6-server-ose-2.1-infra-source-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise 2.1 Infrastructure (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/ose-infra/2.1/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-optional-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server - Optional (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/optional/os
+有効:           0
+
+レポジトリ ID:  rhel-6.4-server-for-rhs-2.1-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6.4 Server for RHS 2.1 (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhs/server/2.1/$basearch/rhel/6.4/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-supplementary-debuginfo
+レポジトリ名:   Red Hat Enterprise Linux 6 Server - Supplementary (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/supplementary/debug
+有効:           0
+
+レポジトリ ID:  rhel-6-server-openstack-5.0-debug-rpms
+レポジトリ名:   Red Hat OpenStack 5.0 for RHEL 6 (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/openstack/5.0/debug
+有効:           0
+
+レポジトリ ID:  rhel-lb-for-rhel-6-server-eus-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux Load Balancer (for RHEL 6 Server) - Extended Update Support (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/eus/rhel/server/6/$releasever/$basearch/loadbalancer/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-eucjp-for-rhel-6-server-beta-rpms
+レポジトリ名:   Red Hat EUCJP Support (RHEL 6 Server) Beta (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/eucjp/os
+有効:           0
+
+レポジトリ ID:  rhel-server-ost-6-3-debug-rpms
+レポジトリ名:   Red Hat OpenStack 3.0 (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/openstack/grizzly/debug
+有効:           0
+
+レポジトリ ID:  rhel-rs-for-rhel-6-server-htb-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux Resilient Storage (for RHEL 6 Server) HTB (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/htb/rhel/server/6/$releasever/$basearch/resilientstorage/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-rhs-client-1-rpms
+レポジトリ名:   Red Hat Storage Native Client for RHEL 6 (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/rhs-client/os
+有効:           0
+
+レポジトリ ID:  rhel-ha-for-rhel-6-server-htb-rpms
+レポジトリ名:   Red Hat Enterprise Linux High Availability (for RHEL 6 Server) HTB (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/htb/rhel/server/6/$releasever/$basearch/highavailability/os
+有効:           0
+
+レポジトリ ID:  rhel-6-server-extras-debuginfo
+レポジトリ名:   Red Hat Enterprise Linux 6 Server - Extras (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/6Server/$basearch/extras/debug
+有効:           0
+
+レポジトリ ID:  rhel-6-server-ose-2.0-jbosseap-source-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise 2.0 JBoss EAP add-on (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/ose-jbosseap/2.0/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-rhs-client-1-debug-rpms
+レポジトリ名:   Red Hat Storage Native Client for RHEL 6 (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/rhs-client/debug
+有効:           0
+
+レポジトリ ID:  rhel-6-server-htb-debug-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server HTB (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/htb/rhel/server/6/$releasever/$basearch/debug
+有効:           0
+
+レポジトリ ID:  rhel-server-ost-6-3-rpms
+レポジトリ名:   Red Hat OpenStack 3.0 (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/openstack/grizzly/os
+有効:           0
+
+レポジトリ ID:  rhel-sap-hana-for-rhel-6-server-rpms
+レポジトリ名:   RHEL for SAP HANA (for RHEL 6 Server) (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/sap-hana/os
+有効:           1
+
+レポジトリ ID:  rhel-6-server-openstack-foreman-source-rpms
+レポジトリ名:   RHEL OpenStack Platform Installer for Server 6 (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/openstack/foreman/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-server-ose-rhc-6-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise Client Tools (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/ose-rhc/1/os
+有効:           0
+
+レポジトリ ID:  rhel-lb-for-rhel-6-server-fastrack-debug-rpms
+レポジトリ名:   Red Hat Enterprise Linux Load Balancer (for RHEL 6 Server) - Fastrack (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/fastrack/rhel/server/6/$basearch/loadbalancer/debug
+有効:           0
+
+レポジトリ ID:  rhel-sfs-for-rhel-6-server-eus-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux Scalable File System (for RHEL 6 Server) - Extended Update Support (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/eus/rhel/server/6/$releasever/$basearch/scalablefilesystem/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-server-rhscl-6-beta-debug-rpms
+レポジトリ名:   Red Hat Software Collections Beta Debug RPMs for Red Hat Enterprise Linux 6 Server
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/rhscl/1/debug
+有効:           0
+
+レポジトリ ID:  rhel-eucjp-for-rhel-6-server-debug-rpms
+レポジトリ名:   Red Hat EUCJP Support (RHEL 6 Server) (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/eucjp/debug
+有効:           0
+
+レポジトリ ID:  rhel-server-ose-infra-6-beta-debug-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise Infrastructure Beta (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/ose-infra/1/debug
+有効:           0
+
+レポジトリ ID:  rhel-6-server-openstack-beta-cts-debug-rpms
+レポジトリ名:   Red Hat OpenStack Beta Certification Test Suite for Server 6 (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/openstack-cts/debug
+有効:           0
+
+レポジトリ ID:  rhel-6-server-ose-2-beta-jbosseap-source-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise 2 JBoss EAP add-on Beta (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/ose-jbosseap/2/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-supplementary-beta-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server - Supplementary Beta (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/supplementary/os
+有効:           0
+
+レポジトリ ID:  rhel-6-server-sam-htb-source-rpms
+レポジトリ名:   Red Hat Subscription Asset Manager (for RHEL 6 Server) HTB (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/htb/rhel/server/6/$releasever/$basearch/subscription-asset-manager/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-scalefs-for-rhel-6-server-fastrack-debug-rpms
+レポジトリ名:   Red Hat Enterprise Linux Scalable File System (for RHEL 6 Server) - Fastrack (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/fastrack/rhel/server/6/$basearch/scalablefilesystem/debug
+有効:           0
+
+レポジトリ ID:  rhel-6-server-openstack-foreman-debug-rpms
+レポジトリ名:   RHEL OpenStack Platform Installer for Server 6 (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/openstack/foreman/debug
+有効:           0
+
+レポジトリ ID:  jb-ews-1-for-rhel-6-server-source-rpms
+レポジトリ名:   JBoss Enterprise Web Server 1 (RHEL 6 Server) (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/jbews/1/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-rhev-agent-beta-source-rpms
+レポジトリ名:   Red Hat Enterprise Virtualization Agents for RHEL 6 Server Beta (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/rhev-agent/3/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-rhevm-3.1-rpms
+レポジトリ名:   Red Hat Enterprise Virtualization Manager 3.1 (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/rhevm/3.1/os
+有効:           0
+
+レポジトリ ID:  rhel-6-server-eus-optional-debug-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server - Extended Update Support - Optional (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/eus/rhel/server/6/$releasever/$basearch/optional/debug
+有効:           0
+
+レポジトリ ID:  rhel-6-server-ose-2.0-jbosseap-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise 2.0 JBoss EAP add-on (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/ose-jbosseap/2.0/os
+有効:           0
+
+レポジトリ ID:  rhel-6-server-aus-optional-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server - AUS - Optional (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/aus/rhel/server/6/$releasever/$basearch/optional/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-server-ost-6-folsom-rpms
+レポジトリ名:   Red Hat OpenStack Folsom Preview (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/openstack/folsom/os
+有効:           0
+
+レポジトリ ID:  rhel-6-server-rhn-tools-beta-rpms
+レポジトリ名:   RHN Tools for Red Hat Enterprise Linux 6 Server Beta (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/rhn-tools/os
+有効:           0
+
+レポジトリ ID:  rhel-6-server-v2vwin-1-debug-rpms
+レポジトリ名:   Red Hat Virt V2V Tool for RHEL 6 (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/v2vwin/debug
+有効:           0
+
+レポジトリ ID:  jb-eap-6-for-rhel-6-server-source-rpms
+レポジトリ名:   JBoss Enterprise Application Platform 6 (RHEL 6 Server) (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/jbeap/6/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-server-rhscl-6-beta-rpms
+レポジトリ名:   Red Hat Software Collections Beta RPMs for Red Hat Enterprise Linux 6 Server
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/rhscl/1/os
+有効:           0
+
+レポジトリ ID:  rhel-6-server-aus-rhn-tools-rpms
+レポジトリ名:   RHN Tools for Red Hat Enterprise Linux 6 Server - AUS (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/aus/rhel/server/6/$releasever/$basearch/rhn-tools/os
+有効:           0
+
+レポジトリ ID:  rhel-6-server-rhevm-3.3-debug-rpms
+レポジトリ名:   Red Hat Enterprise Virtualization Manager 3.3 (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/rhevm/3.3/debug
+有効:           0
+
+レポジトリ ID:  rhel-6-server-optional-htb-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server - Optional HTB (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/htb/rhel/server/6/$releasever/$basearch/optional/os
+有効:           0
+
+レポジトリ ID:  rhel-6-server-eus-rhn-tools-rpms
+レポジトリ名:   RHN Tools for Red Hat Enterprise Linux 6 Server - Extended Update Support (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/eus/rhel/server/6/$releasever/$basearch/rhn-tools/os
+有効:           0
+
+レポジトリ ID:  rhel-6-server-openstack-4.0-source-rpms
+レポジトリ名:   Red Hat OpenStack 4.0 (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/openstack/4.0/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-ose-2.1-node-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise 2.1 Application Node (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/ose-node/2.1/os
+有効:           0
+
+レポジトリ ID:  rhel-6-server-rhevm-3-beta-debug-rpms
+レポジトリ名:   Red Hat Enterprise Virtualization Manager 3 Beta (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/rhevm/3/debug
+有効:           0
+
+レポジトリ ID:  rhel-lb-for-rhel-6-server-beta-debug-rpms
+レポジトリ名:   Red Hat Enterprise Linux Load Balancer (for RHEL 6 Server) Beta (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/loadbalancer/debug
+有効:           0
+
+レポジトリ ID:  rhel-lb-for-rhel-6-server-fastrack-rpms
+レポジトリ名:   Red Hat Enterprise Linux Load Balancer (for RHEL 6 Server) - Fastrack (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/fastrack/rhel/server/6/$basearch/loadbalancer/os
+有効:           0
+
+レポジトリ ID:  rhel-6-server-rhevm-3.2-source-rpms
+レポジトリ名:   Red Hat Enterprise Virtualization Manager 3.2 (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/rhevm/3.2/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-aus-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server - AUS (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/aus/rhel/server/6/$releasever/$basearch/os
+有効:           1
+
+レポジトリ ID:  rhel-server-6-rhds-9-beta-debug-rpms
+レポジトリ名:   Red Hat Directory Server 9 Beta Debug RPMs for Red Hat Enterprise Linux 6 Server
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/directoryserver/9/debug
+有効:           0
+
+レポジトリ ID:  rhel-ha-for-rhel-6-server-eus-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux High Availability (for RHEL 6 Server) - Extended Update Support (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/eus/rhel/server/6/$releasever/$basearch/highavailability/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-rhevh-source-rpms
+レポジトリ名:   Red Hat Enterprise Virtualization Hypervisor (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/rhevh/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-ha-for-rhel-6-server-eus-debug-rpms
+レポジトリ名:   Red Hat Enterprise Linux High Availability (for RHEL 6 Server) - Extended Update Support (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/eus/rhel/server/6/$releasever/$basearch/highavailability/debug
+有効:           0
+
+レポジトリ ID:  rhel-6-server-supplementary-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server - Supplementary (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/supplementary/os
+有効:           0
+
+レポジトリ ID:  rhel-6-server-rh-common-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server - RH Common (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/rh-common/os
+有効:           0
+
+レポジトリ ID:  rhel-server-ose-node-6-beta-source-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise Application Node Beta (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/ose-node/1/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-sap-for-rhel-6-server-debug-rpms
+レポジトリ名:   Red Hat Enterprise Linux for SAP (RHEL 6 Server) (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/sap/debug
+有効:           0
+
+レポジトリ ID:  rhel-ha-for-rhel-6-server-beta-debug-rpms
+レポジトリ名:   Red Hat Enterprise Linux High Availability (for RHEL 6 Server) Beta (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/highavailability/debug
+有効:           0
+
+レポジトリ ID:  rhel-eucjp-for-rhel-6-server-beta-debug-rpms
+レポジトリ名:   Red Hat EUCJP Support (RHEL 6 Server) Beta (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/eucjp/debug
+有効:           0
+
+レポジトリ ID:  rhel-rs-for-rhel-6-server-rpms
+レポジトリ名:   Red Hat Enterprise Linux Resilient Storage (for RHEL 6 Server) (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/resilientstorage/os
+有効:           1
+
+レポジトリ ID:  rhel-6-server-ose-2.0-rhc-debug-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise 2.0 Client Tools (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/ose-rhc/2.0/debug
+有効:           0
+
+レポジトリ ID:  rhel-server-dts-6-source-rpms
+レポジトリ名:   Red Hat Developer Toolset Source RPMs for Red Hat Enterprise Linux 6 Server
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/devtoolset/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-ose-2.1-jbosseap-source-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise 2.1 JBoss EAP add-on (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/ose-jbosseap/2.1/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-scalefs-for-rhel-6-server-debug-rpms
+レポジトリ名:   Red Hat Enterprise Linux Scalable File System (for RHEL 6 Server) (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/scalablefilesystem/debug
+有効:           0
+
+レポジトリ ID:  rhel-6-server-sam-beta-debug-rpms
+レポジトリ名:   Red Hat Subscription Asset Manager (for RHEL 6 Server) Beta (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/subscription-asset-manager/debug
+有効:           0
+
+レポジトリ ID:  rhel-6.2-scalefs-server-for-rhs-2.0-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6.2 Scalable File System for RHS 2.0 (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhs/server/2.0/$basearch/rhel/6.2/scalablefilesystem/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-aus-rh-common-debug-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server - AUS - RH Common (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/aus/rhel/server/6/$releasever/$basearch/rh-common/debug
+有効:           0
+
+レポジトリ ID:  rhel-server-ose-1.2-rhc-6-source-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise 1.2 Client Tools (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/ose-rhc/1.2/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-rhevm-3.1-source-rpms
+レポジトリ名:   Red Hat Enterprise Virtualization Manager 3.1 (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/rhevm/3.1/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-lb-for-rhel-6-server-htb-rpms
+レポジトリ名:   Red Hat Enterprise Linux Load Balancer (for RHEL 6 Server) HTB (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/htb/rhel/server/6/$releasever/$basearch/loadbalancer/os
+有効:           0
+
+レポジトリ ID:  rhel-6-server-rhevm-3-beta-rpms
+レポジトリ名:   Red Hat Enterprise Virtualization Manager 3 Beta (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/rhevm/3/os
+有効:           0
+
+レポジトリ ID:  rhel-6-server-openstack-5.0-rpms
+レポジトリ名:   Red Hat OpenStack 5.0 for RHEL 6 (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/openstack/5.0/os
+有効:           0
+
+レポジトリ ID:  rhel-6-server-rhevm-3.4-source-rpms
+レポジトリ名:   Red Hat Enterprise Virtualization Manager 3.4 (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/rhevm/3.4/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhsc-2.1-for-rhel-6-server-debug-rpms
+レポジトリ名:   Red Hat Storage 2.1 Management Console (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhs/console/2.1/$basearch/debug
+有効:           0
+
+レポジトリ ID:  rhel-ha-for-rhel-6-server-rpms
+レポジトリ名:   Red Hat Enterprise Linux High Availability (for RHEL 6 Server) (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/highavailability/os
+有効:           1
+
+レポジトリ ID:  rhel-6-server-optional-beta-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server - Optional Beta (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/optional/os
+有効:           0
+
+レポジトリ ID:  rhel-server-rhscl-6-rpms
+レポジトリ名:   Red Hat Software Collections RPMs for Red Hat Enterprise Linux 6 Server
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/rhscl/1/os
+有効:           0
+
+レポジトリ ID:  rhel-server-dts-6-eus-rpms
+レポジトリ名:   Red Hat Developer Toolset for RHEL 6 Server EUS (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/eus/rhel/server/6/$releasever/$basearch/devtoolset/os
+有効:           1
+
+レポジトリ ID:  rhel-6.4-scalefs-server-for-rhs-2.1-debug-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6.4 Scalable File System for RHS 2.1 (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhs/server/2.1/$basearch/rhel/6.4/scalablefilesystem/debug
+有効:           0
+
+レポジトリ ID:  rhel-6-server-rh-common-beta-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server - RH Common Beta (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/6Server/$basearch/rh-common/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-server-ose-jbosseap-6-beta-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise JBoss EAP add-on Beta (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/ose-jbosseap/1/os
+有効:           0
+
+レポジトリ ID:  rhel-rs-for-rhel-6-server-debug-rpms
+レポジトリ名:   Red Hat Enterprise Linux Resilient Storage (for RHEL 6 Server) (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/resilientstorage/debug
+有効:           0
+
+レポジトリ ID:  rhel-hpn-for-rhel-6-server-beta-rpms
+レポジトリ名:   Red Hat Enterprise Linux High Performance Networking (for RHEL 6 Server) Beta (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/hpn/os
+有効:           0
+
+レポジトリ ID:  rhel-6-server-rhev-mgmt-agent-beta-debug-rpms
+レポジトリ名:   Red Hat Enterprise Virtualization Management Agents Beta (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/rhev-mgmt-agent/3/debug
+有効:           0
+
+レポジトリ ID:  rhel-6-server-rhn-tools-rpms
+レポジトリ名:   RHN Tools for Red Hat Enterprise Linux 6 Server (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/rhn-tools/os
+有効:           0
+
+レポジトリ ID:  rhel-6.2-server-for-rhs-2.0-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6.2 Server for RHS 2.0 (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhs/server/2.0/$basearch/rhel/6.2/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-ha-for-rhel-6-server-debug-rpms
+レポジトリ名:   Red Hat Enterprise Linux High Availability (for RHEL 6 Server) (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/highavailability/debug
+有効:           0
+
+レポジトリ ID:  rhel-server-ose-1.2-rhc-6-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise 1.2 Client Tools (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/ose-rhc/1.2/os
+有効:           0
+
+レポジトリ ID:  rhel-6-server-rhev-agent-beta-debug-rpms
+レポジトリ名:   Red Hat Enterprise Virtualization Agents for RHEL 6 Server Beta (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/rhev-agent/3/debug
+有効:           0
+
+レポジトリ ID:  rhel-server-rhscl-6-eus-rpms
+レポジトリ名:   Red Hat Software Collections RPMs for Red Hat Enterprise Linux 6 RHEL 6 Server EUS
+レポジトリ URL: https://cdn.redhat.com/content/eus/rhel/server/6/$releasever/$basearch/rhscl/1/os
+有効:           0
+
+レポジトリ ID:  rhel-6-server-grid-rpms
+レポジトリ名:   MRG Grid (for RHEL 6 Server) (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/mrg-g/2.0/os
+有効:           1
+
+レポジトリ ID:  rhel-6-server-htb-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server HTB (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/htb/rhel/server/6/$releasever/$basearch/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-rhevh-debug-rpms
+レポジトリ名:   Red Hat Enterprise Virtualization Hypervisor (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/rhevh/debug
+有効:           0
+
+レポジトリ ID:  rhel-server-dts2-6-beta-debug-rpms
+レポジトリ名:   Red Hat Developer Toolset 2 Beta Debug RPMs for Red Hat Enterprise Linux 6 Server
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/devtoolset/2/debug
+有効:           0
+
+レポジトリ ID:  rhel-6-server-ose-2.0-rhc-source-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise 2.0 Client Tools (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/ose-rhc/2.0/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-eus-supplementary-debuginfo
+レポジトリ名:   Red Hat Enterprise Linux 6 Server - Extended Update Support - Supplementary (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/eus/rhel/server/6/$releasever/$basearch/supplementary/debug
+有効:           0
+
+レポジトリ ID:  jb-eap-6-for-rhel-6-server-rpms
+レポジトリ名:   JBoss Enterprise Application Platform 6 (RHEL 6 Server) (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/jbeap/6/os
+有効:           0
+
+レポジトリ ID:  rhel-ha-for-rhel-6-server-beta-rpms
+レポジトリ名:   Red Hat Enterprise Linux High Availability (for RHEL 6 Server) Beta (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/highavailability/os
+有効:           0
+
+レポジトリ ID:  rhel-6-server-ose-2-beta-rhc-debug-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise 2 Client Tools Beta (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/ose-rhc/2/debug
+有効:           0
+
+レポジトリ ID:  rhel-6-server-eus-rhn-tools-source-rpms
+レポジトリ名:   RHN Tools for Red Hat Enterprise Linux 6 Server - Extended Update Support (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/eus/rhel/server/6/$releasever/$basearch/rhn-tools/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-lb-for-rhel-6-server-htb-debug-rpms
+レポジトリ名:   Red Hat Enterprise Linux Load Balancer (for RHEL 6 Server) HTB (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/htb/rhel/server/6/$releasever/$basearch/loadbalancer/debug
+有効:           0
+
+レポジトリ ID:  rhel-ha-for-rhel-6-server-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux High Availability (for RHEL 6 Server) (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/highavailability/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6.4-server-for-rhs-2.1-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6.4 Server for RHS 2.1 (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhs/server/2.1/$basearch/rhel/6.4/os
+有効:           0
+
+レポジトリ ID:  rhel-eucjp-for-rhel-6-server-rpms
+レポジトリ名:   Red Hat EUCJP Support (RHEL 6 Server) (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/eucjp/os
+有効:           0
+
+レポジトリ ID:  rhel-6-server-openstack-4.0-rpms
+レポジトリ名:   Red Hat OpenStack 4.0 (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/openstack/4.0/os
+有効:           0
+
+レポジトリ ID:  rhel-scalefs-for-rhel-6-server-htb-rpms
+レポジトリ名:   Red Hat Enterprise Linux Scalable File System (for RHEL 6 Server) HTB (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/htb/rhel/server/6/$releasever/$basearch/scalablefilesystem/os
+有効:           0
+
+レポジトリ ID:  rhel-lb-for-rhel-6-server-beta-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux Load Balancer (for RHEL 6 Server) Beta (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/loadbalancer/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-rh-common-beta-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server - RH Common Beta (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/6Server/$basearch/rh-common/os
+有効:           0
+
+レポジトリ ID:  rhel-6-server-aus-supplementary-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server - AUS - Supplementary (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/aus/rhel/server/6/$releasever/$basearch/supplementary/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-aus-rhn-tools-source-rpms
+レポジトリ名:   RHN Tools for Red Hat Enterprise Linux 6 Server - AUS (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/aus/rhel/server/6/$releasever/$basearch/rhn-tools/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-sam-beta-source-rpms
+レポジトリ名:   Red Hat Subscription Asset Manager (for RHEL 6 Server) Beta (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/subscription-asset-manager/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-eus-debug-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server - Extended Update Support (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/eus/rhel/server/6/$releasever/$basearch/debug
+有効:           0
+
+レポジトリ ID:  rhel-server-ost-6-preview-debug-rpms
+レポジトリ名:   Red Hat OpenStack Essex Preview (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/openstack/essex/debug
+有効:           0
+
+レポジトリ ID:  rhel-6.2-scalefs-server-for-rhs-2.0-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6.2 Scalable File System for RHS 2.0 (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhs/server/2.0/$basearch/rhel/6.2/scalablefilesystem/os
+有効:           1
+
+レポジトリ ID:  rhel-rs-for-rhel-6-server-fastrack-debug-rpms
+レポジトリ名:   Red Hat Enterprise Linux Resilient Storage (for RHEL 6 Server) - Fastrack (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/fastrack/rhel/server/6/$basearch/resilientstorage/debug
+有効:           0
+
+レポジトリ ID:  rhel-server-ose-rhc-6-beta-source-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise Client Tools Beta (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/ose-rhc/1/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-server-ose-infra-6-beta-source-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise Infrastructure Beta (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/ose-infra/1/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-ose-2-beta-infra-source-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise 2 Infrastructure Beta (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/ose-infra/2/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-ose-2.1-rhc-debug-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise 2.1 Client Tools (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/ose-rhc/2.1/debug
+有効:           0
+
+レポジトリ ID:  rhel-6-server-eus-supplementary-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server - Extended Update Support - Supplementary (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/eus/rhel/server/6/$releasever/$basearch/supplementary/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-rs-for-rhel-6-server-aus-debug-rpms
+レポジトリ名:   Red Hat Enterprise Linux Resilient Storage (for RHEL 6 Server) - AUS (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/aus/rhel/server/6/$releasever/$basearch/resilientstorage/debug
+有効:           0
+
+レポジトリ ID:  rhel-sjis-for-rhel-6-server-debug-rpms
+レポジトリ名:   Red Hat Enterprise Linux for S-JIS (RHEL 6 Server) (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/sjis/debug
+有効:           0
+
+レポジトリ ID:  rhel-6-server-rhev-mgmt-agent-beta-rpms
+レポジトリ名:   Red Hat Enterprise Virtualization Management Agents Beta (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/rhev-mgmt-agent/3/os
+有効:           0
+
+レポジトリ ID:  rhel-rs-for-rhel-6-server-aus-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux Resilient Storage (for RHEL 6 Server) - AUS (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/aus/rhel/server/6/$releasever/$basearch/resilientstorage/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-ha-for-rhel-6-server-htb-debug-rpms
+レポジトリ名:   Red Hat Enterprise Linux High Availability (for RHEL 6 Server) HTB (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/htb/rhel/server/6/$releasever/$basearch/highavailability/debug
+有効:           0
+
+レポジトリ ID:  rhel-server-dts-6-rhb-rpms
+レポジトリ名:   Red Hat Developer Toolset RHB RPMs for Red Hat Enterprise Linux 6 Server
+レポジトリ URL: https://cdn.redhat.com/content/rhb/rhel/server/6/6Server/$basearch/devtoolset/os
+有効:           0
+
+レポジトリ ID:  rhel-lb-for-rhel-6-server-htb-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux Load Balancer (for RHEL 6 Server) HTB (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/htb/rhel/server/6/$releasever/$basearch/loadbalancer/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-sjis-for-rhel-6-server-beta-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux for S-JIS (RHEL 6 Server) Beta (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/sjis/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-eus-rh-common-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server - Extended Update Support - RH Common (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/eus/rhel/server/6/$releasever/$basearch/rh-common/os
+有効:           0
+
+レポジトリ ID:  rhel-rs-for-rhel-6-server-beta-rpms
+レポジトリ名:   Red Hat Enterprise Linux Resilient Storage (for RHEL 6 Server) Beta (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/resilientstorage/os
+有効:           0
+
+レポジトリ ID:  rhel-hpn-for-rhel-6-server-fastrack-rpms
+レポジトリ名:   Red Hat Enterprise Linux High Performance Networking (for RHEL 6 Server) - Fastrack (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/fastrack/rhel/server/6/$basearch/hpn/os
+有効:           0
+
+レポジトリ ID:  rhs-2.0-for-rhel-6-server-debug-rpms
+レポジトリ名:   Red Hat Storage 2.0 Server for On-premise (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhs/server/2.0/$basearch/debug
+有効:           0
+
+レポジトリ ID:  rhel-6-server-rhevh-rpms
+レポジトリ名:   Red Hat Enterprise Virtualization Hypervisor (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/rhevh/os
+有効:           0
+
+レポジトリ ID:  rhel-6-server-ose-2-beta-rhc-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise 2 Client Tools Beta (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/ose-rhc/2/os
+有効:           0
+
+レポジトリ ID:  rhel-6-server-rhev-agent-beta-rpms
+レポジトリ名:   Red Hat Enterprise Virtualization Agents for RHEL 6 Server Beta (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/rhev-agent/3/os
+有効:           0
+
+レポジトリ ID:  jb-ews-2-for-rhel-6-server-source-rpms
+レポジトリ名:   JBoss Enterprise Web Server 2 (RHEL 6 Server) (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/jbews/2/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-openstack-beta-debug-rpms
+レポジトリ名:   Red Hat OpenStack Beta for Server 6 (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/openstack/debug
+有効:           0
+
+レポジトリ ID:  rhel-6-server-rhevh-beta-debug-rpms
+レポジトリ名:   Red Hat Enterprise Virtualization Hypervisor Beta (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/rhevh/debug
+有効:           0
+
+レポジトリ ID:  rhel-6-server-optional-htb-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server - Optional HTB (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/htb/rhel/server/6/$releasever/$basearch/optional/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-ose-2-beta-node-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise 2 Application Node Beta (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/ose-node/2/os
+有効:           0
+
+レポジトリ ID:  rhel-lb-for-rhel-6-server-eus-debug-rpms
+レポジトリ名:   Red Hat Enterprise Linux Load Balancer (for RHEL 6 Server) - Extended Update Support (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/eus/rhel/server/6/$releasever/$basearch/loadbalancer/debug
+有効:           0
+
+レポジトリ ID:  rhel-6-server-ose-2-beta-infra-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise 2 Infrastructure Beta (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/ose-infra/2/os
+有効:           0
+
+レポジトリ ID:  rhel-ha-for-rhel-6-server-fastrack-rpms
+レポジトリ名:   Red Hat Enterprise Linux High Availability (for RHEL 6 Server) - Fastrack (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/fastrack/rhel/server/6/$basearch/highavailability/os
+有効:           0
+
+レポジトリ ID:  rhel-rs-for-rhel-6-server-eus-debug-rpms
+レポジトリ名:   Red Hat Enterprise Linux Resilient Storage (for RHEL 6 Server) - Extended Update Support (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/eus/rhel/server/6/$releasever/$basearch/resilientstorage/debug
+有効:           0
+
+レポジトリ ID:  rhel-server-6-rhds-9-beta-source-rpms
+レポジトリ名:   Red Hat Directory Server 9 Beta Source RPMs for Red Hat Enterprise Linux 6 Server
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/directoryserver/9/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-ha-for-rhel-6-server-eus-rpms
+レポジトリ名:   Red Hat Enterprise Linux High Availability (for RHEL 6 Server) - Extended Update Support (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/eus/rhel/server/6/$releasever/$basearch/highavailability/os
+有効:           1
+
+レポジトリ ID:  rhel-6-server-cf-tools-1-source-rpms
+レポジトリ名:   Red Hat CloudForms Tools for RHEL 6 (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/cf-tools/1/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhs-2.1-for-rhel-6-server-source-rpms
+レポジトリ名:   Red Hat Storage 2.1 Server for On-premise (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhs/server/2.1/$basearch/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-beta-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server Beta (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-server-dts-6-rhb-source-rpms
+レポジトリ名:   Red Hat Developer Toolset RHB Source RPMs for Red Hat Enterprise Linux 6 Server
+レポジトリ URL: https://cdn.redhat.com/content/rhb/rhel/server/6/6Server/$basearch/devtoolset/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-ose-2.0-jbosseap-debug-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise 2.0 JBoss EAP add-on (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/ose-jbosseap/2.0/debug
+有効:           0
+
+レポジトリ ID:  rhel-server-ose-1.2-jbosseap-6-source-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise 1.2 JBoss EAP add-on (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/ose-jbosseap/1.2/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-ose-2.0-node-source-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise 2.0 Application Node (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/ose-node/2.0/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-aus-thirdparty-oracle-java-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server - AUS - Oracle Java (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/aus/rhel/server/6/$releasever/$basearch/oracle-java/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-scalefs-for-rhel-6-server-beta-rpms
+レポジトリ名:   Red Hat Enterprise Linux Scalable File System (for RHEL 6 Server) Beta (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/scalablefilesystem/os
+有効:           0
+
+レポジトリ ID:  rhel-lb-for-rhel-6-server-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux Load Balancer (for RHEL 6 Server) (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/loadbalancer/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-hts-source-rpms
+レポジトリ名:   Red Hat Hardware Certification Test Suite (for RHEL 6 Server) (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/hts/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-ose-2.0-infra-debug-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise 2.0 Infrastructure (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/ose-infra/2.0/debug
+有効:           0
+
+レポジトリ ID:  rhel-server-ose-jbosseap-6-source-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise JBoss EAP add-on (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/ose-jbosseap/1/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6.2-server-for-rhs-2.0-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6.2 Server for RHS 2.0 (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhs/server/2.0/$basearch/rhel/6.2/os
+有効:           1
+
+レポジトリ ID:  rhel-server-ose-rhc-6-source-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise Client Tools (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/ose-rhc/1/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhsc-2.1-for-rhel-6-server-rpms
+レポジトリ名:   Red Hat Storage 2.1 Management Console (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhs/console/2.1/$basearch/os
+有効:           0
+
+レポジトリ ID:  rhel-6-server-aus-rhn-tools-debug-rpms
+レポジトリ名:   RHN Tools for Red Hat Enterprise Linux 6 Server - AUS (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/aus/rhel/server/6/$releasever/$basearch/rhn-tools/debug
+有効:           0
+
+レポジトリ ID:  rhel-6-server-ose-2.1-jbosseap-debug-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise 2.1 JBoss EAP add-on (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/ose-jbosseap/2.1/debug
+有効:           0
+
+レポジトリ ID:  rhel-scalefs-for-rhel-6-server-rpms
+レポジトリ名:   Red Hat Enterprise Linux Scalable File System (for RHEL 6 Server) (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/scalablefilesystem/os
+有効:           1
+
+レポジトリ ID:  rhel-6-server-ose-2-beta-jbosseap-debug-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise 2 JBoss EAP add-on Beta (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/ose-jbosseap/2/debug
+有効:           0
+
+レポジトリ ID:  rhel-server-ose-rhc-6-debug-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise Client Tools (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/ose-rhc/1/debug
+有効:           0
+
+レポジトリ ID:  rhel-server-ose-node-6-source-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise Application Node (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/ose-node/1/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-rs-for-rhel-6-server-htb-debug-rpms
+レポジトリ名:   Red Hat Enterprise Linux Resilient Storage (for RHEL 6 Server) HTB (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/htb/rhel/server/6/$releasever/$basearch/resilientstorage/debug
+有効:           0
+
+レポジトリ ID:  rhel-rs-for-rhel-6-server-fastrack-rpms
+レポジトリ名:   Red Hat Enterprise Linux Resilient Storage (for RHEL 6 Server) - Fastrack (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/fastrack/rhel/server/6/$basearch/resilientstorage/os
+有効:           0
+
+レポジトリ ID:  rhel-scalefs-for-rhel-6-server-htb-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux Scalable File System (for RHEL 6 Server) HTB (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/htb/rhel/server/6/$releasever/$basearch/scalablefilesystem/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-openstack-beta-rpms
+レポジトリ名:   Red Hat OpenStack Beta for Server 6 (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/openstack/os
+有効:           0
+
+レポジトリ ID:  rhel-6-server-rhn-tools-source-rpms
+レポジトリ名:   RHN Tools for Red Hat Enterprise Linux 6 Server (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/rhn-tools/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-hpn-for-rhel-6-server-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux High Performance Networking (for RHEL 6 Server) (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/hpn/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-grid-source-rpms
+レポジトリ名:   MRG Grid (for RHEL 6 Server) (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/mrg-g/2.0/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-server-dts2-6-eus-source-rpms
+レポジトリ名:   Red Hat Developer Toolset 2 for RHEL 6 Server EUS (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/eus/rhel/server/6/$releasever/$basearch/devtoolset/2/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-aus-optional-debug-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server - AUS - Optional (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/aus/rhel/server/6/$releasever/$basearch/optional/debug
+有効:           0
+
+レポジトリ ID:  rhel-server-dts-6-rpms
+レポジトリ名:   Red Hat Developer Toolset RPMs for Red Hat Enterprise Linux 6 Server
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/devtoolset/os
+有効:           1
+
+レポジトリ ID:  rhel-6-server-rhevm-3-rpms
+レポジトリ名:   Red Hat Enterprise Virtualization Manager 3 (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/rhevm/3/os
+有効:           0
+
+レポジトリ ID:  rhel-lb-for-rhel-6-server-debug-rpms
+レポジトリ名:   Red Hat Enterprise Linux Load Balancer (for RHEL 6 Server) (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/loadbalancer/debug
+有効:           0
+
+レポジトリ ID:  rhel-lb-for-rhel-6-server-aus-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux Load Balancer (for RHEL 6 Server) - AUS (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/aus/rhel/server/6/$releasever/$basearch/loadbalancer/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-ose-2.0-infra-source-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise 2.0 Infrastructure (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/ose-infra/2.0/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-sam-source-rpms
+レポジトリ名:   Red Hat Subscription Asset Manager (for RHEL 6 Server) (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/subscription-asset-manager/1/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-server-ose-node-6-debug-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise Application Node (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/ose-node/1/debug
+有効:           0
+
+レポジトリ ID:  rhel-server-dts-6-beta-debug-rpms
+レポジトリ名:   Red Hat Developer Toolset Beta Debug RPMs for Red Hat Enterprise Linux 6 Server
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/devtoolset/debug
+有効:           0
+
+レポジトリ ID:  rhel-6-server-rhevh-beta-source-rpms
+レポジトリ名:   Red Hat Enterprise Virtualization Hypervisor Beta (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/rhevh/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-optional-fastrack-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server - Optional Fastrack (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/fastrack/rhel/server/6/$basearch/optional/os
+有効:           0
+
+レポジトリ ID:  rhel-6-server-cf-tools-1-beta-source-rpms
+レポジトリ名:   Red Hat CloudForms Tools for RHEL 6 Beta (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/cf-tools/1/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-realtime-source-rpms
+レポジトリ名:   MRG Realtime (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/mrg-r/2/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-realtime-debug-rpms
+レポジトリ名:   MRG Realtime (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/mrg-r/2/debug
+有効:           0
+
+レポジトリ ID:  rhsc-2.0-for-rhel-6-server-source-rpms
+レポジトリ名:   Red Hat Storage 2.0 Management Console (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhs/console/2.0/$basearch/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-sap-for-rhel-6-server-beta-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux for SAP (RHEL 6 Server) Beta (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/sap/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-server-ose-infra-6-source-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise Infrastructure (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/ose-infra/1/source/SRPMS
+有効:           0
+
+レポジトリ ID:  jb-eap-5-for-rhel-6-server-rpms
+レポジトリ名:   JBoss Enterprise Application Platform 5 (RHEL 6 Server) (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/jbeap/5/os
+有効:           0
+
+レポジトリ ID:  rhel-server-ost-6-3-source-rpms
+レポジトリ名:   Red Hat OpenStack 3.0 (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/openstack/grizzly/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-v2vwin-1-source-rpms
+レポジトリ名:   Red Hat Virt V2V Tool for RHEL 6 (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/v2vwin/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-openstack-beta-source-rpms
+レポジトリ名:   Red Hat OpenStack Beta for Server 6 (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/openstack/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-server-dts-6-eus-source-rpms
+レポジトリ名:   Red Hat Developer Toolset for RHEL 6 Server EUS (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/eus/rhel/server/6/$releasever/$basearch/devtoolset/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-ose-2.0-rhc-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise 2.0 Client Tools (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/ose-rhc/2.0/os
+有効:           0
+
+レポジトリ ID:  rhel-lb-for-rhel-6-server-rpms
+レポジトリ名:   Red Hat Enterprise Linux Load Balancer (for RHEL 6 Server) (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/loadbalancer/os
+有効:           1
+
+レポジトリ ID:  rhel-server-6-rhds-9-debug-rpms
+レポジトリ名:   Red Hat Directory Server 9 Debug RPMs for Red Hat Enterprise Linux 6 Server
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/directoryserver/9/debug
+有効:           0
+
+レポジトリ ID:  rhel-atomic-preview-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux Atomic Host Preview (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/preview/rhel/atomic/7/x86_64/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-lb-for-rhel-6-server-aus-rpms
+レポジトリ名:   Red Hat Enterprise Linux Load Balancer (for RHEL 6 Server) - AUS (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/aus/rhel/server/6/$releasever/$basearch/loadbalancer/os
+有効:           1
+
+レポジトリ ID:  rhel-6-server-fastrack-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server - Fastrack (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/fastrack/rhel/server/6/$basearch/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-optional-fastrack-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server - Optional Fastrack (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/fastrack/rhel/server/6/$basearch/optional/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-rhevm-3.2-debug-rpms
+レポジトリ名:   Red Hat Enterprise Virtualization Manager 3.2 (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/rhevm/3.2/debug
+有効:           0
+
+レポジトリ ID:  rhel-rs-for-rhel-6-server-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux Resilient Storage (for RHEL 6 Server) (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/resilientstorage/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-eus-thirdparty-oracle-java-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server - Extended Update Support - Oracle Java (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/eus/rhel/server/6/$releasever/$basearch/oracle-java/os
+有効:           0
+
+レポジトリ ID:  rhel-6-server-eus-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server - Extended Update Support (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/eus/rhel/server/6/$releasever/$basearch/os
+有効:           1
+
+レポジトリ ID:  rhel-6-server-rhevm-3.3-rpms
+レポジトリ名:   Red Hat Enterprise Virtualization Manager 3.3 (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/rhevm/3.3/os
+有効:           0
+
+レポジトリ ID:  rhel-server-ose-jbosseap-6-debug-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise JBoss EAP add-on (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/ose-jbosseap/1/debug
+有効:           0
+
+レポジトリ ID:  rhel-6-server-optional-beta-debug-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server - Optional Beta (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/optional/debug
+有効:           0
+
+レポジトリ ID:  rhel-server-dts-6-eus-debug-rpms
+レポジトリ名:   Red Hat Developer Toolset for RHEL 6 Server EUS (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/eus/rhel/server/6/$releasever/$basearch/devtoolset/debug
+有効:           0
+
+レポジトリ ID:  rhel-server-dts2-6-debug-rpms
+レポジトリ名:   Red Hat Developer Toolset 2 Debug RPMs for Red Hat Enterprise Linux 6 Server
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/devtoolset/2/debug
+有効:           0
+
+レポジトリ ID:  rhel-server-ose-rhc-6-beta-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise Client Tools Beta (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/ose-rhc/1/os
+有効:           0
+
+レポジトリ ID:  rhel-server-ose-1.2-node-6-debug-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise 1.2 Application Node (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/ose-node/1.2/debug
+有効:           0
+
+レポジトリ ID:  rhel-6-server-fastrack-debug-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server - Fastrack (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/fastrack/rhel/server/6/$basearch/debug
+有効:           0
+
+レポジトリ ID:  rhel-eucjp-for-rhel-6-server-beta-source-rpms
+レポジトリ名:   Red Hat EUCJP Support (RHEL 6 Server) Beta (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/eucjp/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-openstack-beta-cts-rpms
+レポジトリ名:   Red Hat OpenStack Beta Certification Test Suite for Server 6 (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/openstack-cts/os
+有効:           0
+
+レポジトリ ID:  rhel-sap-for-rhel-6-server-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux for SAP (RHEL 6 Server) (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/sap/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-server-ose-1.2-infra-6-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise 1.2 Infrastructure (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/ose-infra/1.2/os
+有効:           0
+
+レポジトリ ID:  rhel-6-server-ose-2.1-node-source-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise 2.1 Application Node (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/ose-node/2.1/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-rhn-tools-beta-source-rpms
+レポジトリ名:   RHN Tools for Red Hat Enterprise Linux 6 Server Beta (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/rhn-tools/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-server-ose-1.2-node-6-source-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise 1.2 Application Node (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/ose-node/1.2/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-aus-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server - AUS (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/aus/rhel/server/6/$releasever/$basearch/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-scalefs-for-rhel-6-server-beta-debug-rpms
+レポジトリ名:   Red Hat Enterprise Linux Scalable File System (for RHEL 6 Server) Beta (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/scalablefilesystem/debug
+有効:           0
+
+レポジトリ ID:  rhel-6-server-eus-thirdparty-oracle-java-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server - Extended Update Support - Oracle Java (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/eus/rhel/server/6/$releasever/$basearch/oracle-java/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-server-ose-jbosseap-6-beta-source-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise JBoss EAP add-on Beta (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/ose-jbosseap/1/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-optional-fastrack-debug-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server - Optional Fastrack (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/fastrack/rhel/server/6/$basearch/optional/debug
+有効:           0
+
+レポジトリ ID:  rhel-6-server-rhev-mgmt-agent-debug-rpms
+レポジトリ名:   Red Hat Enterprise Virtualization Management Agents (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/rhev-mgmt-agent/3/debug
+有効:           0
+
+レポジトリ ID:  rhel-server-rhscl-6-beta-source-rpms
+レポジトリ名:   Red Hat Software Collections Beta Source RPMs for Red Hat Enterprise Linux 6 Server
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/rhscl/1/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-ose-2.1-node-debug-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise 2.1 Application Node (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/ose-node/2.1/debug
+有効:           0
+
+レポジトリ ID:  rhel-6-server-extras-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server - Extras (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/6Server/$basearch/extras/os
+有効:           0
+
+レポジトリ ID:  rhel-6-server-supplementary-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server - Supplementary (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/supplementary/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-6-server-rhevh-beta-rpms
+レポジトリ名:   Red Hat Enterprise Virtualization Hypervisor Beta (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/rhevh/os
+有効:           0
+
+レポジトリ ID:  rhel-ha-for-rhel-6-server-aus-rpms
+レポジトリ名:   Red Hat Enterprise Linux High Availability (for RHEL 6 Server) - AUS (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/aus/rhel/server/6/$releasever/$basearch/highavailability/os
+有効:           1
+
+レポジトリ ID:  rhel-server-ose-infra-6-beta-rpms
+レポジトリ名:   Red Hat OpenShift Enterprise Infrastructure Beta (RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/ose-infra/1/os
+有効:           0
+
+レポジトリ ID:  rhel-6-server-rhevm-3.1-debug-rpms
+レポジトリ名:   Red Hat Enterprise Virtualization Manager 3.1 (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/rhevm/3.1/debug
+有効:           0
+
+レポジトリ ID:  rhel-6-server-optional-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server - Optional (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/optional/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-rs-for-rhel-6-server-beta-debug-rpms
+レポジトリ名:   Red Hat Enterprise Linux Resilient Storage (for RHEL 6 Server) Beta (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/$releasever/$basearch/resilientstorage/debug
+有効:           0
+
+レポジトリ ID:  rhel-6-server-eus-rh-common-debug-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server - Extended Update Support - RH Common (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/eus/rhel/server/6/$releasever/$basearch/rh-common/debug
+有効:           0
+
+レポジトリ ID:  rhel-6-server-rh-common-beta-debug-rpms
+レポジトリ名:   Red Hat Enterprise Linux 6 Server - RH Common Beta (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/beta/rhel/server/6/6Server/$basearch/rh-common/debug
+有効:           0
+
+レポジトリ ID:  rhel-6-server-rhevm-3.4-debug-rpms
+レポジトリ名:   Red Hat Enterprise Virtualization Manager 3.4 (Debug RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/rhevm/3.4/debug
+有効:           0
+
+レポジトリ ID:  rhel-ha-for-rhel-6-server-htb-source-rpms
+レポジトリ名:   Red Hat Enterprise Linux High Availability (for RHEL 6 Server) HTB (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/htb/rhel/server/6/$releasever/$basearch/highavailability/source/SRPMS
+有効:           0
+
+レポジトリ ID:  rhel-server-ost-6-folsom-source-rpms
+レポジトリ名:   Red Hat OpenStack Folsom Preview (Source RPMs)
+レポジトリ URL: https://cdn.redhat.com/content/dist/rhel/server/6/$releasever/$basearch/openstack/folsom/source/SRPMS
+有効:           0
+
