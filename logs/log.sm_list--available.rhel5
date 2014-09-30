@@ -1,0 +1,213 @@
++-------------------------------------------+
+    Available Subscriptions
++-------------------------------------------+
+Subscription Name: Red Hat Employee Subscription
+SKU:               ES0113909
+Pool ID:           8a85f98144844aff014488d058bf15be
+Quantity:          12906
+Service Level:     SELF-SUPPORT
+Service Type:      L1-L3
+Multi-Entitlement: No
+Ends:              01/01/22
+System Type:       Physical
+
+Subscription Name: Red Hat Employee Subscription
+SKU:               ES0113909
+Pool ID:           8a85f98144844aff014488d059f61625
+Quantity:          Unlimited
+Service Level:     SELF-SUPPORT
+Service Type:      L1-L3
+Multi-Entitlement: No
+Ends:              01/01/22
+System Type:       Virtual
+
+Subscription Name: 90-day Unsupported Red Hat JBoss BPM Suite Evaluation
+SKU:               MW2480996
+Pool ID:           8a85f98147308f4d014743930f756d18
+Quantity:          Unlimited
+Service Level:     SELF-SUPPORT
+Service Type:      L1-L3
+Multi-Entitlement: No
+Ends:              10/15/14
+System Type:       Physical
+
+Subscription Name: 90 Day Self-Supported Red Hat JBoss Enterprise Application Platform with Management Evaluation
+SKU:               MW0176371
+Pool ID:           8a85f981477e528401477f60f2281d10
+Quantity:          Unlimited
+Service Level:     SELF-SUPPORT
+Service Type:      L1-L3
+Multi-Entitlement: No
+Ends:              10/26/14
+System Type:       Physical
+
+Subscription Name: 60 Day Self-Supported Red Hat Enterprise Linux OpenStack Platform Preview
+SKU:               SER0406
+Pool ID:           8a85f981478d1fa60147ab28a23767dd
+Quantity:          Unlimited
+Service Level:     Self-Support
+Service Type:      L1-L3
+Multi-Entitlement: No
+Ends:              10/05/14
+System Type:       Virtual
+
+Subscription Name: Red Hat Satellite 6 (For Transition Only)
+SKU:               MCT3133
+Pool ID:           8a85f9814855bfb5014860a8fde946cf
+Quantity:          9990
+Service Level:     Premium
+Service Type:      L1-L3
+Multi-Entitlement: Yes
+Ends:              09/10/15
+System Type:       Physical
+
+Subscription Name: Red Hat Satellite 6 (For Transition Only)
+SKU:               MCT3133
+Pool ID:           8a85f9814855bfb5014860a8fe1646ef
+Quantity:          9986
+Service Level:     Premium
+Service Type:      L1-L3
+Multi-Entitlement: Yes
+Ends:              09/10/15
+System Type:       Virtual
+
+Subscription Name: 90 Day Self-Supported Red Hat JBoss Enterprise Application Platform with Management Evaluation
+SKU:               MW0176371
+Pool ID:           8a85f9814864cbea014864f8c2455ddf
+Quantity:          Unlimited
+Service Level:     SELF-SUPPORT
+Service Type:      L1-L3
+Multi-Entitlement: No
+Ends:              12/10/14
+System Type:       Physical
+
+Subscription Name: 60 Day Self-Supported Red Hat Enterprise Linux with Smart Virtualization Evaluation
+SKU:               SER0447
+Pool ID:           8a85f98148751d43014889e3f5ae7ba6
+Quantity:          Unlimited
+Service Level:     Self-Support
+Service Type:      L1-L3
+Multi-Entitlement: No
+Ends:              11/17/14
+System Type:       Virtual
+
+Subscription Name: 30 Day Self-Supported OpenShift Enterprise, 2 Cores Evaluation
+SKU:               SER0419
+Pool ID:           8a85f981489220170148a42df61a55f8
+Quantity:          2
+Service Level:     Self-Support
+Service Type:      L1-L3
+Multi-Entitlement: No
+Ends:              10/23/14
+System Type:       Physical
+
+Subscription Name: JBoss Business Partner Self-Supported NFR
+SKU:               SER0295
+Pool ID:           8a85f98242b28afb0142becc449a59c2
+Quantity:          Unlimited
+Service Level:     Self-Support
+Service Type:      L1-L3
+Multi-Entitlement: No
+Ends:              12/04/14
+System Type:       Physical
+
+Subscription Name: Red Hat Enterprise Linux Self-Supported Business Partner NFR
+SKU:               RH3387200
+Pool ID:           8a85f98242b28afb0142becc46f35a78
+Quantity:          55
+Service Level:     SELF-SUPPORT
+Service Type:      L1-L3
+Multi-Entitlement: No
+Ends:              12/04/14
+System Type:       Virtual
+
+Subscription Name: Red Hat Employee Subscription
+SKU:               SYS0395
+Pool ID:           8a85f9843affb61f013b1c7ddf6a64da
+Quantity:          239076
+Service Level:     Self-Support
+Service Type:      L1-L3
+Multi-Entitlement: No
+Ends:              01/01/22
+System Type:       Physical
+
+Subscription Name: Red Hat Employee Subscription
+SKU:               SYS0395
+Pool ID:           8a85f9843affb61f013b1c7ddf8164ef
+Quantity:          Unlimited
+Service Level:     Self-Support
+Service Type:      L1-L3
+Multi-Entitlement: No
+Ends:              01/01/22
+System Type:       Virtual
+
+Subscription Name: CloudForms Employee Subscription
+SKU:               SER0412
+Pool ID:           8a85f9843affb61f013b1c7de36a6508
+Quantity:          4
+Service Level:     Self-Support
+Service Type:      L1-L3
+Multi-Entitlement: No
+Ends:              01/01/22
+System Type:       Physical
+
+Subscription Name: OpenShift Employee Subscription
+SKU:               SER0421
+Pool ID:           8a85f9843affb61f013b52c3e53e53a5
+Quantity:          140
+Service Level:     Self-Support
+Service Type:      L1-L3
+Multi-Entitlement: No
+Ends:              01/01/22
+System Type:       Physical
+
+Subscription Name: Red Hat Satellite Employee Subscription
+SKU:               SER0232US
+Pool ID:           8a85f9863f14fed3013f82b2c7b33615
+Quantity:          9566
+Service Level:     Self-Support
+Service Type:      L1-L3
+Multi-Entitlement: No
+Ends:              01/01/22
+System Type:       Physical
+
+Subscription Name: Red Hat Satellite Employee Subscription
+SKU:               SER0232US
+Pool ID:           8a85f9863f14fed3013f82b2c7c33622
+Quantity:          38937
+Service Level:     Self-Support
+Service Type:      L1-L3
+Multi-Entitlement: No
+Ends:              01/01/22
+System Type:       Virtual
+
+Subscription Name: Red Hat Employee Subscription
+SKU:               ES0113909
+Pool ID:           8a85f9874011071c01407da00b3f7c5e
+Quantity:          1927
+Service Level:     SELF-SUPPORT
+Service Type:      L1-L3
+Multi-Entitlement: No
+Ends:              01/01/22
+System Type:       Physical
+
+Subscription Name: Red Hat Employee Subscription
+SKU:               ES0113909
+Pool ID:           8a85f9874011071c01407da00b997cb2
+Quantity:          Unlimited
+Service Level:     SELF-SUPPORT
+Service Type:      L1-L3
+Multi-Entitlement: No
+Ends:              01/01/22
+System Type:       Virtual
+
+Subscription Name: Red Hat Employee Subscription
+SKU:               ES0113909
+Pool ID:           8a85f987430cc34101436d0f542f665c
+Quantity:          Unlimited
+Service Level:     SELF-SUPPORT
+Service Type:      L1-L3
+Multi-Entitlement: No
+Ends:              01/07/15
+System Type:       Virtual
+
